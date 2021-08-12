@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Austria",
+      "id": "Q40"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q80810433",
+      "start": "2020-01-07",
+      "parent": "Q695599"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.bundeskanzleramt.gv.at/en/federal-chancellery/the-austrian-federal-government/ministers.html",
+        "title": "Federal Ministers and State Secretaries - Federal Chancellery of Austria",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/austria-cabinet"
 }
