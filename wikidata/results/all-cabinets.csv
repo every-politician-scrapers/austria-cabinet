@@ -46,4 +46,4 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q64267382,Löger provisional government,2019-05-28,11,,,2019-06-03,11,2019-06-03,11,Q695599,Austrian Federal Government,,,Q45820208,First Kurz government,Q64170336,Bierlein government,,,,
 ,Q64170336,Bierlein government,2019-06-03,11,,,2020-01-07,11,2020-01-07,11,Q3112663,caretaker government,,,Q64267382,Löger provisional government,Q80810433,Second Kurz cabinet,,,,
 ,Q64170336,Bierlein government,2019-06-03,11,,,2020-01-07,11,2020-01-07,11,Q695599,Austrian Federal Government,,,Q64267382,Löger provisional government,Q80810433,Second Kurz cabinet,,,,
-,Q80810433,Second Kurz cabinet,2020-01-07,11,,,,,,,Q695599,Austrian Federal Government,,,Q64170336,Bierlein government,,,,,,
+,Q80810433,Second Kurz cabinet,2020-01-07,11,,,2021-10-11,11,,,Q695599,Austrian Federal Government,,,Q64170336,Bierlein government,Q108861070,Schallenberg government,,,,
