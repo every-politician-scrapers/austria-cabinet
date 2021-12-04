@@ -1,0 +1,154 @@
+{
+  "title": "Martin Kocher",
+  "pageID": 68477408,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "University of Innsbruck alumni",
+    "Academics of the University of East Anglia",
+    "Ludwig Maximilian University of Munich faculty",
+    "Austrian politicians",
+    "People from Salzburg"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martin Georg Kocher (born 13 September 1973) is an Austrian economist, academic and politician who has been Minister of Labour, Family and Youth since January 2021.",
+              "links": [
+                {
+                  "text": "Austrian",
+                  "type": "internal",
+                  "page": "Austria"
+                },
+                {
+                  "text": "Minister of Labour, Family and Youth",
+                  "type": "internal",
+                  "page": "Minister of Labour, Family and Youth (Austria)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Martin Georg Kocher"
+                ]
+              }
+            },
+            {
+              "text": "He was a professor at the University of East Anglia before moving to the Ludwig Maximilian University of Munich.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of East Anglia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ludwig Maximilian University of Munich"
+                }
+              ]
+            },
+            {
+              "text": "There he taught as a professor of behavioral economics and experimental economic research, and was also a visiting professor in Gothenburg and at the University of Queensland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Queensland"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian economist",
+          "template": "short description"
+        },
+        {
+          "topic": "biography",
+          "date": "August 2012",
+          "list": [
+            "Martin Kocher"
+          ],
+          "template": "expand german"
+        },
+        {
+          "year": "1973",
+          "month": "9",
+          "day": "13",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Martin Kocher"
+          },
+          "image": {
+            "text": "2021 Martin Kocher (50958944386) (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Labour, Family and Youth",
+            "links": [
+              {
+                "text": "Minister of Labour, Family and Youth",
+                "type": "internal",
+                "page": "Minister of Labour, Family and Youth (Austria)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 January 2021"
+          },
+          "chancellor": {
+            "text": "Sebastian Kurz Alexander Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              },
+              {
+                "type": "internal",
+                "page": "Alexander Schallenberg"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Christine Aschbacher",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christine Aschbacher"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 13, 1973"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Federal Minister",
+          "url": "https://www.bma.gv.at/en/Ministry/Federal-Minister0.html",
+          "website": "Minister of Labour, Family and Youth (Austria)",
+          "access-date": "14 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Austrian labour minister quits over plagiarism allegations",
+          "url": "https://www.reuters.com/business/media-telecom/austrian-labour-minister-quits-over-plagiarism-allegations-2021-01-10/",
+          "website": "Reuters",
+          "access-date": "14 August 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

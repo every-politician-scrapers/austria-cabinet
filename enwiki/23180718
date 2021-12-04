@@ -1,0 +1,238 @@
+{
+  "title": "Doris Bures",
+  "pageID": 23180718,
+  "categories": [
+    "1962 births",
+    "20th-century Austrian women politicians",
+    "21st-century Austrian women politicians",
+    "Government ministers of Austria",
+    "Living people",
+    "Members of the National Council (Austria)",
+    "Presidents of the National Council (Austria)",
+    "Social Democratic Party of Austria politicians",
+    "Women government ministers of Austria",
+    "Politicians from Vienna"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Doris Bures (born 3 August 1962) is an Austrian politician of the Social Democratic Party of Austria (SPÖ) who serves as the Second President of the Austrian National Council.",
+              "links": [
+                {
+                  "text": "Austrian",
+                  "type": "internal",
+                  "page": "Austria"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Social Democratic Party of Austria"
+                },
+                {
+                  "text": "Austrian National Council",
+                  "type": "internal",
+                  "page": "National Council of Austria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Doris Bures"
+                ]
+              }
+            },
+            {
+              "text": "From September 2014 to November 2017, she was its President.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "List of Presidents of the National Council of Austria"
+                }
+              ]
+            },
+            {
+              "text": "She served as Minister of Transport, Innovation and Technology from 2008 to 2014.",
+              "links": [
+                {
+                  "text": "Minister of Transport, Innovation and Technology",
+                  "type": "internal",
+                  "page": "Ministry of Transport (Austria)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1962",
+          "month": "8",
+          "day": "3",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Doris Bures"
+          },
+          "image": {
+            "text": "Doris Bures Eröffnung Bahnhof Sankt Pölten 2010.jpg"
+          },
+          "office": {
+            "text": "Second President of the National Council",
+            "links": [
+              {
+                "text": "Second President of the National Council",
+                "type": "internal",
+                "page": "President of the National Council (Austria)",
+                "anchor": "List of second presidents"
+              }
+            ]
+          },
+          "president": {
+            "text": "Wolfgang Sobotka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wolfgang Sobotka"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 November 2017"
+          },
+          "predecessor": {
+            "text": "Karlheinz Kopf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karlheinz Kopf"
+              }
+            ]
+          },
+          "office1": {
+            "text": "President of the National Council",
+            "links": [
+              {
+                "text": "President of the National Council",
+                "type": "internal",
+                "page": "President of the National Council (Austria)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2 September 2014"
+          },
+          "term_end1": {
+            "text": "8 November 2017"
+          },
+          "deputy1": {
+            "text": "Karlheinz Kopf\n(Second President)\nNorbert Hofer\n(Third President)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karlheinz Kopf"
+              },
+              {
+                "type": "internal",
+                "page": "Norbert Hofer"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Barbara Prammer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barbara Prammer"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Elisabeth Köstinger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elisabeth Köstinger"
+              }
+            ]
+          },
+          "office2": {
+            "text": "[[Ministry of Transport (Austria)|Minister of Transport, Innovation\nand Technology]]"
+          },
+          "chancellor2": {
+            "text": "Werner Faymann",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Werner Faymann"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2 December 2008"
+          },
+          "term_end2": {
+            "text": "1 September 2014"
+          },
+          "predecessor2": {
+            "text": "Werner Faymann"
+          },
+          "successor2": {
+            "text": "Alois Stöger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alois Stöger"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 3, 1962"
+          },
+          "birth_place": {
+            "text": "Vienna, Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vienna"
+              },
+              {
+                "type": "internal",
+                "page": "Austria"
+              }
+            ]
+          },
+          "children": {
+            "text": "1 daughter"
+          },
+          "party": {
+            "text": "Social Democratic Party",
+            "links": [
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Social Democratic Party of Austria"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "title": "Susanne Raab",
+  "pageID": 62781783,
+  "categories": [
+    "1984 births",
+    "Living people",
+    "Government ministers of Austria",
+    "Women government ministers of Austria",
+    "Austrian People's Party politicians",
+    "21st-century Austrian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Susanne Raab (née Knasmüller; born 20 October 1984) is an Austrian politician of People's Party (ÖVP) who has been serving as Minister for Integration (since 2020) and as Minister for Women, Family and Youth (since 2021) in the government of Chancellor Sebastian Kurz.",
+              "links": [
+                {
+                  "text": "née",
+                  "type": "internal",
+                  "page": "née"
+                },
+                {
+                  "text": "People's Party",
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Second Kurz government"
+                },
+                {
+                  "text": "Chancellor",
+                  "type": "internal",
+                  "page": "Chancellor of Austria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastian Kurz"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Susanne Raab",
+                  "Knasmüller"
+                ],
+                "italic": [
+                  "née"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian politician",
+          "template": "short description"
+        },
+        {
+          "date": "February 2020",
+          "template": "expand german"
+        },
+        {
+          "df": "yes",
+          "year": "1984",
+          "month": "10",
+          "day": "20",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "2020 Susanne Raab Ministerrat am 8.1.2020 (49351571192) (cropped).jpg"
+          },
+          "office": {
+            "text": "Federal Minister for Women, Family, Youth and Integration"
+          },
+          "termstart": {
+            "text": "1 February 2021"
+          },
+          "chancellor": {
+            "text": "Sebastian Kurz Alexander Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              },
+              {
+                "type": "internal",
+                "page": "Alexander Schallenberg"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "office1": {
+            "text": "Federal Minister of Integration at the Federal Chancellery"
+          },
+          "termstart1": {
+            "text": "7 January 2020"
+          },
+          "chancellor1": {
+            "text": "Sebastian Kurz Alexander Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              },
+              {
+                "type": "internal",
+                "page": "Alexander Schallenberg"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Juliane Bogner-Strauß (2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juliane Bogner-Strauß"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 20, 1984"
+          },
+          "party": {
+            "text": "Austrian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Austrian People's Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Innsbruck",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Innsbruck"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.parlament.gv.at/WWER/PAD_06486/index.shtml",
+          "title": "MMag. Dr. Susanne Raab, Biografie",
+          "website": "www.parlament.gv.at",
+          "language": "de",
+          "access-date": "2020-01-08",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.dieniederoesterreicherin.at/people/180220_manbrauchteinedickehaut-137416/",
+          "title": "„Man braucht eine dicke Haut“",
+          "website": "Niederösterreicherin",
+          "language": "de",
+          "access-date": "2020-01-08",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

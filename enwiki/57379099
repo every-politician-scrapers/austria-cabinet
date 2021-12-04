@@ -1,0 +1,224 @@
+{
+  "title": "Margarete Schramböck",
+  "pageID": 57379099,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Austrian People's Party politicians",
+    "Government ministers of Austria",
+    "Women government ministers of Austria",
+    "Vienna University of Economics and Business alumni",
+    "Economy ministers",
+    "Infrastructure ministers",
+    "Trade ministers",
+    "21st-century Austrian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Margarete Schramböck (born May 12, 1970 in St. Johann in Tirol) is an Austrian business manager and politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St. Johann in Tirol"
+                },
+                {
+                  "text": "Austrian",
+                  "type": "internal",
+                  "page": "Austria"
+                },
+                {
+                  "text": "business manager",
+                  "type": "internal",
+                  "page": "business manager"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Margarete Schramböck"
+                ]
+              }
+            },
+            {
+              "text": "She is the Minister of the Economy in the Second Kurz government and the Schallenberg government since January 2020; she previously served in this position from December 2017 to June 2019 in the First Kurz government.",
+              "links": [
+                {
+                  "text": "Minister of the Economy",
+                  "type": "internal",
+                  "page": "Ministry of Economy (Austria)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Second Kurz government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Schallenberg government"
+                },
+                {
+                  "type": "internal",
+                  "page": "First Kurz government"
+                }
+              ]
+            },
+            {
+              "text": "From May 2016 to October 2017, she was the chief executive officer of A1 Telekom Austria.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "A1 Telekom Austria"
+                }
+              ]
+            },
+            {
+              "text": "Schramböck is a member of the Austrian People's Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian manager and politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2018",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1970",
+          "month": "5",
+          "day": "12",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "2015 Margarete Schramböck (17126313616).jpg"
+          },
+          "name": {
+            "text": "Margarete Schramböck"
+          },
+          "office": {
+            "text": "Minister of Digital and Economic Affairs",
+            "links": [
+              {
+                "text": "Minister of Digital and Economic Affairs",
+                "type": "internal",
+                "page": "Ministry of Economy (Austria)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 January 2020"
+          },
+          "chancellor": {
+            "text": "Sebastian Kurz Alexander Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              },
+              {
+                "type": "internal",
+                "page": "Alexander Schallenberg"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Elisabeth Udolf-Strobl",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elisabeth Udolf-Strobl"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "18 December 2017"
+          },
+          "term_end1": {
+            "text": "3 June 2019"
+          },
+          "chancellor1": {
+            "text": "Sebastian Kurz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Josef Moser",
+            "links": [
+              {
+                "text": "Josef Moser",
+                "type": "internal",
+                "page": "Josef Moser (jurist)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Elisabeth Udolf-Strobl",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elisabeth Udolf-Strobl"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 12, 1970"
+          },
+          "birth_place": {
+            "text": "St. Johann in Tirol, Tyrol, Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "St. Johann in Tirol"
+              },
+              {
+                "text": "Tyrol",
+                "type": "internal",
+                "page": "Tyrol (state)"
+              }
+            ]
+          },
+          "party": {
+            "text": "People's Party",
+            "links": [
+              {
+                "text": "People's Party",
+                "type": "internal",
+                "page": "Austrian People's Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Vienna University of Economics",
+            "links": [
+              {
+                "text": "Vienna University of Economics",
+                "type": "internal",
+                "page": "Vienna University of Economics and Business"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

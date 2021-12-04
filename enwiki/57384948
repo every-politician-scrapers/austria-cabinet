@@ -1,0 +1,250 @@
+{
+  "title": "Heinz Faßmann",
+  "pageID": 57384948,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "Government ministers of Austria",
+    "University of Vienna alumni",
+    "Human geographers",
+    "Austrian sociologists",
+    "Austrian geographers",
+    "Members of Academia Europaea",
+    "Members of the Austrian Academy of Sciences",
+    "University of Vienna faculty",
+    "Technical University of Munich faculty",
+    "Education ministers",
+    "Science ministers",
+    "21st-century Austrian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Heinz Faßmann (born 13 August 1955 in Düsseldorf) is an Austrian politician and professor of human geography and land-use planning at the University of Vienna.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Düsseldorf"
+                },
+                {
+                  "text": "Austrian",
+                  "type": "internal",
+                  "page": "Austria"
+                },
+                {
+                  "text": "professor",
+                  "type": "internal",
+                  "page": "professor"
+                },
+                {
+                  "text": "human geography",
+                  "type": "internal",
+                  "page": "human geography"
+                },
+                {
+                  "text": "land-use planning",
+                  "type": "internal",
+                  "page": "land-use planning"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Vienna"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Heinz Faßmann"
+                ]
+              }
+            },
+            {
+              "text": "He is serving as the Minister of Education in the Second Kurz cabinet in the government of Chancellor Sebastian Kurz and the Schallenberg government of Chancellor Alexander Schallenberg.",
+              "links": [
+                {
+                  "text": "Minister of Education",
+                  "type": "internal",
+                  "page": "Ministry of Education (Austria)"
+                },
+                {
+                  "text": "Second Kurz cabinet",
+                  "type": "internal",
+                  "page": "Second Kurz government"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Second Kurz government"
+                },
+                {
+                  "text": "Chancellor",
+                  "type": "internal",
+                  "page": "Chancellor of Austria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastian Kurz"
+                },
+                {
+                  "type": "internal",
+                  "page": "Schallenberg government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alexander Schallenberg"
+                }
+              ]
+            },
+            {
+              "text": "He previously served in the same capacity from December 2017 to June 2019."
+            },
+            {
+              "text": "Faßmann is considered to be aligned with the Austrian People's Party (ÖVP) but holds no formal party membership or affiliation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "df": "y",
+          "year": "1955",
+          "month": "8",
+          "day": "13",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Heinz Faßmann"
+          },
+          "image": {
+            "text": "Heinz Fassmann, Austrian Minister of Education - 2018 (46171295532) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Fassmann in 2018"
+          },
+          "office": {
+            "text": "Minister of Education",
+            "links": [
+              {
+                "text": "Minister of Education",
+                "type": "internal",
+                "page": "Ministry of Education (Austria)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 January 2020"
+          },
+          "chancellor": {
+            "text": "Sebastian Kurz Alexander Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              },
+              {
+                "type": "internal",
+                "page": "Alexander Schallenberg"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Iris Rauskala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iris Rauskala"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "18 December 2017"
+          },
+          "term_end1": {
+            "text": "3 June 2019"
+          },
+          "chancellor1": {
+            "text": "Sebastian Kurz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Sonja Hammerschmid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sonja Hammerschmid"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Iris Rauskala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iris Rauskala"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 13, 1955"
+          },
+          "birth_place": {
+            "text": "Düsseldorf, Germany",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Düsseldorf"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Vienna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Vienna"
+              }
+            ]
+          },
+          "height": {
+            "text": "2.03 m"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "website": {
+            "text": "Parliament website"
+          }
+        }
+      ]
+    }
+  ]
+}

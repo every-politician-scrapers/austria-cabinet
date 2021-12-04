@@ -1,0 +1,217 @@
+{
+  "title": "Magnus Brunner",
+  "pageID": 41846058,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "University of Innsbruck alumni",
+    "University of Vienna alumni",
+    "Alumni of King's College London",
+    "Members of the Federal Council (Austria)",
+    "Austrian People's Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Magnus Brunner (born 6 May 1972) is an Austrian politician.",
+              "formatting": {
+                "bold": [
+                  "Magnus Brunner"
+                ]
+              }
+            },
+            {
+              "text": "He is currently state secretary (Staatssekretär) at the Austrian Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology in the government of Chancellor Sebastian Kurz.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Second Kurz government"
+                },
+                {
+                  "text": "Chancellor",
+                  "type": "internal",
+                  "page": "Chancellor of Austria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastian Kurz"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Staatssekretär"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Brunner has been a member of the Federal Council for the Austrian People's Party (ÖVP) from 1 May 2009 until 6 January 2020.",
+              "links": [
+                {
+                  "text": "Federal Council",
+                  "type": "internal",
+                  "page": "Federal Council (Austria)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                },
+                {
+                  "text": "ÖVP",
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                }
+              ]
+            },
+            {
+              "text": "He was educated at the University of Innsbruck, the University of Vienna and King's College London (LLM).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Innsbruck"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Vienna"
+                },
+                {
+                  "type": "internal",
+                  "page": "King's College London"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1972",
+          "month": "5",
+          "day": "6",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Magnus Brunner"
+          },
+          "image": {
+            "text": "File:2020_Magnus_Brunner_Ministerrat_am_8.1.2020_(49351370666)_(cropped)_(cropped).jpg"
+          },
+          "birth_date": {
+            "text": "May 6, 1972"
+          },
+          "birth_place": {
+            "text": "Höchst, Voralberg, Austria",
+            "links": [
+              {
+                "text": "Höchst",
+                "type": "internal",
+                "page": "Höchst, Austria"
+              },
+              {
+                "type": "internal",
+                "page": "Voralberg"
+              }
+            ]
+          },
+          "office": {
+            "text": "State Secretary"
+          },
+          "term_start": {
+            "text": "7 January 2020"
+          },
+          "office2": {
+            "text": "Member of the Federal Council",
+            "links": [
+              {
+                "text": "Federal Council",
+                "type": "internal",
+                "page": "Federal Council (Austria)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 May 2009"
+          },
+          "term_end2": {
+            "text": "6 January 2020"
+          },
+          "predecessor2": {
+            "text": "Jürgen Weiss",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jürgen Weiss"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Christine Schwarz-Fuchs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christine Schwarz-Fuchs"
+              }
+            ]
+          },
+          "party": {
+            "text": "ÖVP",
+            "links": [
+              {
+                "text": "ÖVP",
+                "type": "internal",
+                "page": "Austrian People's Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Innsbruck University of Vienna King's College London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Innsbruck"
+              },
+              {
+                "type": "internal",
+                "page": "University of Vienna"
+              },
+              {
+                "type": "internal",
+                "page": "King's College London"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parlament.gv.at/WWER/PAD_55727/index.shtml",
+          "title": "Dr. Magnus Brunner, LL.M",
+          "accessdate": "5 February 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

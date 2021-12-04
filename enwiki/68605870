@@ -1,0 +1,148 @@
+{
+  "title": "Wolfgang Mückstein",
+  "pageID": 68605870,
+  "categories": [
+    "Living people",
+    "1974 births",
+    "Place of birth missing (living people)",
+    "21st-century Austrian politicians",
+    "Health ministers of Austria",
+    "The Greens – The Green Alternative politicians",
+    "20th-century Austrian physicians",
+    "21st-century Austrian physicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wolfgang Mückstein (born 5 July 1974) is an Austrian physician and politician.",
+              "links": [
+                {
+                  "text": "Austrian",
+                  "type": "internal",
+                  "page": "Austria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Wolfgang Mückstein"
+                ]
+              }
+            },
+            {
+              "text": "He serves as Minister of Social Affairs, Health, Care and Consumer Protection in the governments of chancellors Sebastian Kurz and Alexander Schallenberg since 19 April 2021.",
+              "links": [
+                {
+                  "text": "Minister of Social Affairs, Health, Care and Consumer Protection",
+                  "type": "internal",
+                  "page": "List of Ministers of Social Affairs (Austria)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastian Kurz"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alexander Schallenberg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1974",
+          "month": "7",
+          "day": "5",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Wolfgang Mückstein"
+          },
+          "image": {
+            "text": "2021 Wolfgang Mückstein (51115921585) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Wolfgang Mückstein (2021)"
+          },
+          "office": {
+            "text": "Minister of Social Affairs, Health, Care and Consumer Protection",
+            "links": [
+              {
+                "text": "Minister of Social Affairs, Health, Care and Consumer Protection",
+                "type": "internal",
+                "page": "List of Ministers of Social Affairs (Austria)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 April 2021"
+          },
+          "chancellor": {
+            "text": "Sebastian Kurz Alexander Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              },
+              {
+                "type": "internal",
+                "page": "Alexander Schallenberg"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Rudolf Anschober",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rudolf Anschober"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 5, 1974"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Dr. Wolfgang Mückstein",
+          "url": "https://www.sozialministerium.at/Ministerium/Bundesminister-Wolfgang-Mueckstein.html",
+          "url-status": "live",
+          "access-date": "30 August 2021",
+          "website": "Bundesministerium Soziales, Gesundheit, Pflege und Konsumentenschutz",
+          "language": "de",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "13 April 2021",
+          "title": "Austrian health minister steps down, exhausted by pandemic",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/europe/austrian-health-minister-says-he-is-stepping-down-exhausted-2021-04-13/",
+          "access-date": "30 August 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

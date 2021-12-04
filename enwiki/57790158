@@ -1,0 +1,263 @@
+{
+  "title": "Michael Ludwig",
+  "pageID": 57790158,
+  "categories": [
+    "1961 births",
+    "Living people",
+    "Social Democratic Party of Austria politicians",
+    "Mayors of Vienna"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michael Ludwig (born 3 April 1961) is an Austrian politician of the Social Democratic Party (SPÖ).",
+              "links": [
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Social Democratic Party of Austria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Michael Ludwig"
+                ]
+              }
+            },
+            {
+              "text": "Since May 2018, he has been Mayor and Governor of Vienna, the capital and largest city of Austria.",
+              "links": [
+                {
+                  "text": "Mayor and Governor of Vienna",
+                  "type": "internal",
+                  "page": "List of mayors of Vienna"
+                },
+                {
+                  "type": "internal",
+                  "page": "Austria"
+                }
+              ]
+            },
+            {
+              "text": "Since January 2018, he has also served as chairman of SPÖ Vienna.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "SPÖ Vienna"
+                }
+              ]
+            },
+            {
+              "text": "Prior, he was City Councillor for Housing, Construction, and Urban Renewal from January 2007 until his election as mayor."
+            },
+            {
+              "text": "He was also Second Deputy Mayor and Governor of Vienna from March 2009 to October 2010."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the politician",
+            "the athlete",
+            "Michael Ludwig (fencer)"
+          ],
+          "template": "about"
+        },
+        {
+          "date": "July 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1961",
+          "month": "4",
+          "day": "3",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Irmtraud Rossgatterer",
+          "from": "2018",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Michael Ludwig"
+          },
+          "image": {
+            "text": "Michael Ludwig - Veranstaltung „1. Tag des Wiener Wohnbaus“ (2).JPG"
+          },
+          "office": {
+            "text": "Mayor and Governor of Vienna",
+            "links": [
+              {
+                "text": "Mayor and Governor of Vienna",
+                "type": "internal",
+                "page": "List of mayors of Vienna"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Maria Vassilakou (2018–19) Birgit Hebein (2019–20) Christoph Wiederkehr (2020–)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maria Vassilakou"
+              },
+              {
+                "type": "internal",
+                "page": "Birgit Hebein"
+              },
+              {
+                "type": "internal",
+                "page": "Christoph Wiederkehr"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "24 May 2018"
+          },
+          "predecessor": {
+            "text": "Michael Häupl",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Häupl"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chairman of the Social Democratic Party in Vienna",
+            "links": [
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Social Democratic Party of Austria"
+              },
+              {
+                "type": "internal",
+                "page": "Vienna"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "27 January 2018"
+          },
+          "term_end1": {
+            "text": "7 Oktober 2018"
+          },
+          "predecessor1": {
+            "text": "Michael Häupl",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Häupl"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Second Deputy Mayor of Vienna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vienna"
+              }
+            ]
+          },
+          "governor2": {
+            "text": "Michael Häupl",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Häupl"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "26 March 2009"
+          },
+          "term_end2": {
+            "text": "25 November 2010"
+          },
+          "office3": {
+            "text": "City Councillor for Housing, Construction, and Urban Renewal"
+          },
+          "governor3": {
+            "text": "Michael Häupl",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Häupl"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "22 January 2007"
+          },
+          "term_end3": {
+            "text": "24 May 2018"
+          },
+          "birth_date": {
+            "text": "April 3, 1961"
+          },
+          "birth_place": {
+            "text": "Vienna, Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vienna"
+              },
+              {
+                "type": "internal",
+                "page": "Austria"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democratic Party of Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Social Democratic Party of Austria"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Irmtraud Rossgatterer (m. 2018)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://wien.orf.at/news/stories/2914606/",
+          "title": "Ludwig elected mayor",
+          "date": "24 May 2018",
+          "publisher": "ORF",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Dr. Michael Ludwig",
+          "url": "http://www.wien.spoe.at/dr-michael-ludwig",
+          "url-status": "live",
+          "access-date": "11 June 2018",
+          "website": "Social Democratic Party of Austria",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

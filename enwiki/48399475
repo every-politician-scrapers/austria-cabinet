@@ -1,0 +1,136 @@
+{
+  "title": "Robert Holzmann",
+  "pageID": 48399475,
+  "categories": [
+    "1949 births",
+    "Living people",
+    "Austrian economists",
+    "Governors of Oesterreichische Nationalbank"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Robert Holzmann (born February 27, 1949, in Leoben, Austria) is an Austrian economist 1 and the current Governor of Austria’s central bank, the Oesterreichische Nationalbank (OeNB).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "February 27"
+                },
+                {
+                  "text": "1949",
+                  "type": "internal",
+                  "page": "1949"
+                },
+                {
+                  "type": "internal",
+                  "page": "Leoben"
+                },
+                {
+                  "type": "internal",
+                  "page": "Austria"
+                },
+                {
+                  "text": "economist",
+                  "type": "internal",
+                  "page": "economist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Oesterreichische Nationalbank"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Robert Holzmann"
+                ]
+              }
+            },
+            {
+              "text": "2,3 His term of appointment runs from September 1, 2019, to August 31, 2025."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 1997 to 2011, he held various positions at the World Bank in Washington, D.C., USA, including Sector Director (1997–2009), Research Director (2009–2011) and Acting Senior Vice President (2002–2003).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "World Bank"
+                },
+                {
+                  "type": "internal",
+                  "page": "Washington, D.C."
+                },
+                {
+                  "type": "internal",
+                  "page": "USA"
+                },
+                {
+                  "type": "internal",
+                  "page": "Senior Vice President"
+                }
+              ]
+            },
+            {
+              "text": "Before and thereafter he held positions in academia and international organizations.",
+              "links": [
+                {
+                  "text": "academia",
+                  "type": "internal",
+                  "page": "academy"
+                },
+                {
+                  "text": "international organizations",
+                  "type": "internal",
+                  "page": "international organizations"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Robert Holzmann. Copyright OeNB, 2020.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Robert_Holzmann._Copyright_OeNB%2C_2020.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Robert_Holzmann._Copyright_OeNB%2C_2020.jpg",
+          "caption": "Robert Holzmann, Copyright: Central Bank of Austria",
+          "links": [],
+          "alt": "Robert Holzmann, Gouverneur der Oesterreichischen Nationalbank seit 09/2019"
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian economist",
+          "template": "short description"
+        },
+        {
+          "date": "February 2018",
+          "template": "blp sources"
+        },
+        {
+          "date": "November 2015",
+          "template": "pov"
+        },
+        {
+          "date": "June 2020",
+          "template": "cleanup reorganize"
+        },
+        {
+          "date": "June 2020",
+          "template": "more footnotes"
+        },
+        {
+          "template": "multiple issues"
+        }
+      ]
+    }
+  ]
+}

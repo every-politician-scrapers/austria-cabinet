@@ -1,0 +1,403 @@
+{
+  "title": "Alexander Schallenberg",
+  "pageID": 60942083,
+  "categories": [
+    "1969 births",
+    "21st-century Austrian politicians",
+    "21st-century Chancellors of Austria",
+    "Austrian nobility",
+    "Counts of Austria",
+    "Living people",
+    "Foreign ministers of Austria",
+    "University of Vienna alumni",
+    "Panthéon-Assas University alumni",
+    "College of Europe alumni",
+    "People from Bern",
+    "Schallenberg family",
+    "Knights Grand Cross of the Order of Merit of the Italian Republic"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexander Georg Nicolas Schallenberg (born 20 June 1969) is an Austrian diplomat, jurist and politician who served as Chancellor of Austria since 11 October 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chancellor of Austria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alexander Georg Nicolas Schallenberg"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Austrian People's Party (ÖVP), he had previously served as foreign minister in the second government of Sebastian Kurz.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                },
+                {
+                  "text": "foreign minister",
+                  "type": "internal",
+                  "page": "Foreign Minister of Austria"
+                },
+                {
+                  "text": "second government",
+                  "type": "internal",
+                  "page": "Second Kurz government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastian Kurz"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A member of the Schallenberg family and a graduate of the College of Europe, Schallenberg was a career diplomat who became a mentor to Kurz when the latter became foreign minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Schallenberg family"
+                },
+                {
+                  "type": "internal",
+                  "page": "College of Europe"
+                }
+              ]
+            },
+            {
+              "text": "Kurz appointed him director of strategic foreign policy planning and head of the European department."
+            },
+            {
+              "text": "Schallenberg joined the cabinet as foreign minister in 2019."
+            },
+            {
+              "text": "After Kurz announced his pending resignation on 9 October 2021, Schallenberg was proposed by the ÖVP to replace him as Chancellor of Austria."
+            },
+            {
+              "text": "The Schallenberg government was sworn in on 11 October 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Schallenberg government"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Schallenberg announced his pending resignation on 2 December 2021, after less than 2 months in office."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chancellor of Austria",
+          "template": "short description"
+        },
+        {
+          "template": "redirect",
+          "redirect": "Schallenberg",
+          "links": [
+            {
+              "page": "Schallenberg (surname)",
+              "desc": ""
+            }
+          ]
+        },
+        {
+          "date": "October 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Vice Chancellor"
+          ],
+          "template": "no wrap"
+        },
+        {
+          "year": "1969",
+          "month": "6",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Marie-Isabelle Hénin",
+          "from": "1995",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alexander Schallenberg"
+          },
+          "image": {
+            "text": "Alexander Schallenberg 12.10.2021 02.jpg"
+          },
+          "caption": {
+            "text": "Schallenberg in October 2021"
+          },
+          "office": {
+            "text": "Chancellor of Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chancellor of Austria"
+              }
+            ]
+          },
+          "president": {
+            "text": "Alexander Van der Bellen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander Van der Bellen"
+              }
+            ]
+          },
+          "1namedata": {
+            "text": "Werner Kogler",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Werner Kogler"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 October 2021"
+          },
+          "predecessor": {
+            "text": "Sebastian Kurz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Austria)"
+              }
+            ]
+          },
+          "chancellor1": {
+            "text": "Brigitte Bierlein\nSebastian Kurz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigitte Bierlein"
+              },
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "3 June 2019"
+          },
+          "term_end1": {
+            "text": "11 October 2021"
+          },
+          "predecessor1": {
+            "text": "Karin Kneissl",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karin Kneissl"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Michael Linhart",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Linhart"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of the Chancellery",
+            "links": [
+              {
+                "text": "Chancellery",
+                "type": "internal",
+                "page": "Chancellery (Austria)"
+              }
+            ]
+          },
+          "alongside2": {
+            "text": "Ines Stilling",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ines Stilling"
+              }
+            ]
+          },
+          "chancellor2": {
+            "text": "Brigitte Bierlein",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigitte Bierlein"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "6 June 2019"
+          },
+          "term_end2": {
+            "text": "7 January 2020"
+          },
+          "predecessor2": {
+            "text": "Gernot Blümel\nJuliane Bogner-Strauß",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gernot Blümel"
+              },
+              {
+                "type": "internal",
+                "page": "Juliane Bogner-Strauß"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Christine Aschbacher\nKaroline Edtstadler\nSusanne Raab",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christine Aschbacher"
+              },
+              {
+                "type": "internal",
+                "page": "Karoline Edtstadler"
+              },
+              {
+                "type": "internal",
+                "page": "Susanne Raab"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 20, 1969"
+          },
+          "birth_place": {
+            "text": "Bern, Switzerland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bern"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Marie-Isabelle Hénin (m. 1995) (divorced)"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "party": {
+            "text": "People's Party (2020–present)",
+            "links": [
+              {
+                "text": "People's Party",
+                "type": "internal",
+                "page": "Austrian People's Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Independent (before 2020)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "education": {
+            "text": "University of Vienna\nPanthéon-Assas University\nCollege of Europe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Vienna"
+              },
+              {
+                "type": "internal",
+                "page": "Panthéon-Assas University"
+              },
+              {
+                "type": "internal",
+                "page": "College of Europe"
+              }
+            ]
+          },
+          "father": {
+            "text": "Wolfgang Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wolfgang Schallenberg"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ots.at/presseaussendung/OTS_20211010_OTS0036/aviso-morgen-1300-uhr-ernennung-und-angelobung-von-bundeskanzler-alexander-schallenberg-durch-bundespraesident-alexander-van-der-bellen",
+          "title": "AVISO: Morgen, 13:00 Uhr: Ernennung und Angelobung von Bundeskanzler Alexander Schallenberg durch Bundespräsident Alexander Van der Bellen",
+          "date": "10 October 2021",
+          "website": "ots.at",
+          "access-date": "10 October 2021",
+          "language": "de",
+          "archive-date": "10 October 2021",
+          "archive-url": "https://web.archive.org/web/20211010154309/https://www.ots.at/presseaussendung/OTS_20211010_OTS0036/aviso-morgen-1300-uhr-ernennung-und-angelobung-von-bundeskanzler-alexander-schallenberg-durch-bundespraesident-alexander-van-der-bellen",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Sebastian Kurz \"macht Platz\" und zieht sich als Kanzler zurück",
+          "url": "https://www.derstandard.at/story/2000130311035/nach-juengsten-enthuellungen-sebastian-kurz-vor-rueckzug-als-kanzler",
+          "access-date": "9 October 2021",
+          "website": "DER STANDARD",
+          "language": "de-AT",
+          "archive-date": "9 October 2021",
+          "archive-url": "https://web.archive.org/web/20211009193645/https://www.derstandard.at/story/2000130311035/nach-juengsten-enthuellungen-sebastian-kurz-vor-rueckzug-als-kanzler",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

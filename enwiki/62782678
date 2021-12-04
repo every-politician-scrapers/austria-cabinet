@@ -1,0 +1,249 @@
+{
+  "title": "Karl Nehammer",
+  "pageID": 62782678,
+  "categories": [
+    "Living people",
+    "1972 births",
+    "Government ministers of Austria",
+    "Interior Ministers of Austria",
+    "Austrian People's Party politicians",
+    "Members of the National Council (Austria)",
+    "Politicians from Vienna",
+    "21st-century Austrian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Karl Nehammer (born 18 October 1972) is an Austrian politician of the Austrian People's Party (ÖVP) who has served as Minister of the Interior since January 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                },
+                {
+                  "text": "Minister of the Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Austria)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Karl Nehammer"
+                ]
+              }
+            },
+            {
+              "text": "He was previously general-secretary of the ÖVP from 2018 to 2020, and a member of the National Council from 2017 to 2020.",
+              "links": [
+                {
+                  "text": "National Council",
+                  "type": "internal",
+                  "page": "National Council (Austria)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1972",
+          "month": "10",
+          "day": "18",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Karl Nehammer"
+          },
+          "image": {
+            "text": "2020 Karl Nehammer Ministerrat am 8.1.2020 (49351366976) (cropped).jpg"
+          },
+          "office": {
+            "text": "Acting Chairman of the People's Party",
+            "links": [
+              {
+                "text": "Chairman of the People's Party",
+                "type": "internal",
+                "page": "List of chairpersons of the Austrian People's Party"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 December 2021"
+          },
+          "predecessor": {
+            "text": "Sebastian Kurz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "text": "Minister of the Interior",
+                "type": "internal",
+                "page": "List of Ministers of the Interior (Austria)"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "7 January 2020"
+          },
+          "chancellor1": {
+            "text": "Sebastian Kurz Alexander Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              },
+              {
+                "type": "internal",
+                "page": "Alexander Schallenberg"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Wolfgang Peschorn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wolfgang Peschorn"
+              }
+            ]
+          },
+          "office2": {
+            "text": "General-Secretary of the Austrian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Austrian People's Party"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "20 January 2018"
+          },
+          "termend2": {
+            "text": "January 2020"
+          },
+          "predecessor2": {
+            "text": "Elisabeth Köstinger Stefan Steiner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elisabeth Köstinger"
+              },
+              {
+                "type": "internal",
+                "page": "Stefan Steiner"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Axel Melchior",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Axel Melchior"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the National Council",
+            "links": [
+              {
+                "text": "Member of the National Council",
+                "type": "internal",
+                "page": "National Council (Austria)"
+              }
+            ]
+          },
+          "termstart3": {
+            "text": "9 November 2017"
+          },
+          "termend3": {
+            "text": "7 January 2020"
+          },
+          "successor3": {
+            "text": "Rudolf Taschner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rudolf Taschner"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 18, 1972"
+          },
+          "birth_place": {
+            "text": "Vienna, Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vienna"
+              },
+              {
+                "type": "internal",
+                "page": "Austria"
+              }
+            ]
+          },
+          "party": {
+            "text": "Austrian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Austrian People's Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Danube University Krems",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Danube University Krems"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Katharina Nehammer"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.parlament.gv.at/WWER/PAD_02136/index.shtml",
+          "title": "Karl Nehammer, MSc",
+          "lang": "de",
+          "accessdate": "3 December 2021",
+          "website": "National Council",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

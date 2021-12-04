@@ -1,0 +1,168 @@
+{
+  "title": "Leonore Gewessler",
+  "pageID": 62807356,
+  "categories": [
+    "Living people",
+    "1977 births",
+    "Politicians from Graz",
+    "Government ministers of Austria",
+    "Women government ministers of Austria",
+    "21st-century Austrian women politicians",
+    "The Greens – The Green Alternative politicians",
+    "Austrian environmentalists",
+    "University of Vienna alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leonore Gewessler (born 15 September 1977) is an Austrian Green politician is serving as [[Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology|Minister of Climate Action, Environment, Energy, Mobility, Innovation and Technology]] in the government of Chancellor Sebastian Kurz and later Alexander Schallenberg since January 2020.",
+              "links": [
+                {
+                  "text": "Green",
+                  "type": "internal",
+                  "page": "The Greens – The Green Alternative"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Second Kurz government"
+                },
+                {
+                  "text": "Chancellor",
+                  "type": "internal",
+                  "page": "Chancellor of Austria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastian Kurz"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alexander Schallenberg"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Leonore Gewessler"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2020",
+          "template": "expand german"
+        },
+        {
+          "year": "1977",
+          "month": "10",
+          "day": "15",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "2020 Leonore Gewessler Ministerrat am 8.1.2020 (49351367291) (cropped) (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Climate Action, Environment, Energy, Mobility, Innovation and Technology",
+            "links": [
+              {
+                "text": "Minister of Climate Action, Environment, Energy, Mobility, Innovation and Technology",
+                "type": "internal",
+                "page": "List of Ministers of Transport (Austria)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 January 2020"
+          },
+          "chancellor": {
+            "text": "Sebastian Kurz Alexander Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              },
+              {
+                "type": "internal",
+                "page": "Alexander Schallenberg"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Andreas Reichhardt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andreas Reichhardt"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Graz, Styria, Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Graz"
+              },
+              {
+                "type": "internal",
+                "page": "Styria"
+              },
+              {
+                "type": "internal",
+                "page": "Austria"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 15, 1977"
+          },
+          "alma_mater": {
+            "text": "University of Vienna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Vienna"
+              }
+            ]
+          },
+          "party": {
+            "text": "The Greens – The Green Alternative",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Greens – The Green Alternative"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.parlament.gv.at/WWER/PAD_05653/index.shtml",
+          "title": "Leonore Gewessler, BA, Biografie",
+          "website": "www.parlament.gv.at",
+          "language": "de",
+          "access-date": "12 January 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

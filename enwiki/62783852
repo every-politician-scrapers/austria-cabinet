@@ -1,0 +1,197 @@
+{
+  "title": "Alma Zadić",
+  "pageID": 62783852,
+  "categories": [
+    "1984 births",
+    "Living people",
+    "Austrian people of Bosnia and Herzegovina descent",
+    "Bosnia and Herzegovina emigrants to Austria",
+    "Female justice ministers",
+    "21st-century Austrian women politicians",
+    "Politicians from Vienna",
+    "Columbia Law School alumni",
+    "University of Vienna alumni",
+    "Justice ministers of Austria",
+    "The Greens – The Green Alternative politicians",
+    "Yugoslav Wars refugees",
+    "Women government ministers of Austria",
+    "People from Tuzla"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alma Zadić (born 24 May 1984) is a Bosnian-born Austrian lawyer and politician of the Green Party.",
+              "links": [
+                {
+                  "text": "Bosnian",
+                  "type": "internal",
+                  "page": "Bosnia and Herzegovina"
+                },
+                {
+                  "text": "Green Party",
+                  "type": "internal",
+                  "page": "The Greens – The Green Alternative"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alma Zadić"
+                ]
+              }
+            },
+            {
+              "text": "She has been serving as Minister of Justice since 7 January 2020, in the governments of Chancellors Sebastian Kurz and later Alexander Schallenberg.",
+              "links": [
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Austria)"
+                },
+                {
+                  "text": "Chancellors",
+                  "type": "internal",
+                  "page": "Chancellor of Austria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastian Kurz"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alexander Schallenberg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1984",
+          "month": "05",
+          "day": "24",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "birth_date": {
+            "text": "May 24, 1984"
+          },
+          "birth_name": {
+            "text": "Alma Zadić"
+          },
+          "birth_place": {
+            "text": "Tuzla, SR Bosnia and Herzegovina, SFR Yugoslavia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tuzla"
+              },
+              {
+                "text": "SR Bosnia and Herzegovina",
+                "type": "internal",
+                "page": "Socialist Republic of Bosnia  and Herzegovina"
+              },
+              {
+                "type": "internal",
+                "page": "SFR Yugoslavia"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "List of Ministers of Justice (Austria)"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Clemens Jabloner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Clemens Jabloner"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "7 January 2020"
+          },
+          "party": {
+            "text": "The Greens – The Green Alternative",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Greens – The Green Alternative"
+              }
+            ]
+          },
+          "chancellor": {
+            "text": "Sebastian Kurz Alexander Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              },
+              {
+                "type": "internal",
+                "page": "Alexander Schallenberg"
+              }
+            ]
+          },
+          "image": {
+            "text": "2018 Alma Zadić (39729494940) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Zadić in 2018"
+          },
+          "alma_mater": {
+            "text": "University of Vienna Columbia University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Vienna"
+              },
+              {
+                "type": "internal",
+                "page": "Columbia University"
+              }
+            ]
+          },
+          "children": {
+            "text": "1",
+            "number": 1
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://orf.at/stories/3149251/",
+          "title": "Alma Zadic: Von JETZT ins Justizministerium",
+          "last": "red",
+          "first": "ORF at/Agenturen",
+          "date": "2019-12-31",
+          "website": "news.ORF.at",
+          "language": "de",
+          "access-date": "2020-01-09",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

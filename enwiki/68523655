@@ -1,0 +1,174 @@
+{
+  "title": "Andrea Mayer",
+  "pageID": 68523655,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "Social Democratic Party of Austria politicians",
+    "21st-century politicians",
+    "University of Vienna alumni",
+    "Austrian people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Andrea Mayer (born April 19, 1962 in Amstetten), during her marriage to Andrea Ecker, is an Austrian politician and former cabinet director of the Presidential Chancellery.",
+              "links": [
+                {
+                  "text": "Amstetten",
+                  "type": "internal",
+                  "page": "Amstetten, Lower Austria"
+                },
+                {
+                  "text": "Austrian",
+                  "type": "internal",
+                  "page": "Austrians"
+                },
+                {
+                  "type": "internal",
+                  "page": "Presidential Chancellery"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Andrea Mayer",
+                  "Andrea Ecker"
+                ]
+              }
+            },
+            {
+              "text": "Since May 20, 2020, she has been State Secretary in the Federal Ministry for Arts, Culture, the Civil Service and Sport in Cabinet Kurz II, nominated by the Greens.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Federal Ministry for Arts, Culture, the Civil Service and Sport"
+                },
+                {
+                  "text": "Cabinet Kurz II",
+                  "type": "internal",
+                  "page": "Second Kurz government"
+                },
+                {
+                  "text": "Greens",
+                  "type": "internal",
+                  "page": "The Greens – The Green Alternative"
+                }
+              ]
+            },
+            {
+              "text": "There she is employed by Vice-Chancellor Werner Kogler and responsible for the arts and culture departments.",
+              "links": [
+                {
+                  "text": "Vice-Chancellor",
+                  "type": "internal",
+                  "page": "Vice-Chancellor of Austria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Werner Kogler"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "August 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1962",
+          "month": "4",
+          "day": "19",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "File:Andrea mayer.jpg"
+          },
+          "office3": {
+            "text": "State Secretary in the Federal Ministry for Arts, Culture, the Civil Service and Sport",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Federal Ministry for Arts, Culture, the Civil Service and Sport"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "May 20, 2020"
+          },
+          "predecessor3": {
+            "text": "Ulrike Lunacek",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ulrike Lunacek"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 19, 1962"
+          },
+          "birth_place": {
+            "text": "Amstetten, Austria",
+            "links": [
+              {
+                "text": "Amstetten",
+                "type": "internal",
+                "page": "Amstetten, Lower Austria"
+              },
+              {
+                "type": "internal",
+                "page": "Austria"
+              }
+            ]
+          },
+          "education": {
+            "text": "University of Vienna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Vienna"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.derstandard.at/story/2000117568806/spitzenbeamtin-andrea-mayer-wird-kulturstaatssekretaerinder-gruenen",
+          "title": "Spitzenbeamtin Andrea Mayer wird Kulturstaatssekretärin der Grünen",
+          "website": "DER STANDARD",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://orf.at/stories/3166252/",
+          "title": "Kulturstaatssekretärin vorgestellt: Mayer verspricht unbürokratische Hilfe",
+          "first": "ORF at/Agenturen",
+          "date": "May 19, 2020",
+          "website": "news.ORF.at",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
