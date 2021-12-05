@@ -156,9 +156,11 @@
             "text": "Johannes Kyrle",
             "links": [
               {
-                "text": "Johannes Kyrle",
-                "type": "internal",
-                "page": ":de:Johannes Kyrle"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "de"
+                }
               }
             ]
           },
@@ -166,9 +168,11 @@
             "text": "Johannes Peterlik",
             "links": [
               {
-                "text": "Johannes Peterlik",
-                "type": "internal",
-                "page": ":de:Johannes Peterlik"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "de"
+                }
               }
             ]
           },
@@ -202,9 +206,11 @@
             "text": "Brigitte Öppinger-Walchshofer",
             "links": [
               {
-                "text": "Brigitte Öppinger-Walchshofer",
-                "type": "internal",
-                "page": ":de:Brigitte Öppinger-Walchshofer"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "de"
+                }
               }
             ]
           },
