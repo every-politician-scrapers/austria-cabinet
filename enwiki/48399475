@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Robert Holzmann (born February 27, 1949, in Leoben, Austria) is an Austrian economist 1 and the current Governor of Austria’s central bank, the Oesterreichische Nationalbank (OeNB).",
+              "text": "Robert Holzmann (born February 27, 1949, in Leoben, Austria) is an Austrian economist1 and the current Governor of Austria’s central bank, the Oesterreichische Nationalbank (OeNB).2,3 His term of appointment runs from September 1, 2019, to August 31, 2025.",
               "links": [
                 {
                   "type": "internal",
@@ -49,9 +49,6 @@
                   "Robert Holzmann"
                 ]
               }
-            },
-            {
-              "text": "2,3 His term of appointment runs from September 1, 2019, to August 31, 2025."
             }
           ]
         },
@@ -129,6 +126,14 @@
         },
         {
           "template": "multiple issues"
+        },
+        {
+          "text": "1",
+          "template": "sup"
+        },
+        {
+          "text": "2,3",
+          "template": "sup"
         }
       ]
     }
