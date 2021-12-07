@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Werner Kogler (born 20 November 1961) is an Austrian politician of the Green Party who has been serving as the Vice-Chancellor of Austria and the minister for Arts, Culture, the Civil Service and Sport in the governments of Chancellors Sebastian Kurz and Alexander Schallenberg since 7 January 2020.",
+              "text": "Werner Kogler (born 20 November 1961) is an Austrian politician of the Green Party who has been serving as the Vice-Chancellor of Austria and the minister for Arts, Culture, the Civil Service and Sport in the governments of Chancellors Sebastian Kurz, Alexander Schallenberg, and Karl Nehammer since 7 January 2020.",
               "links": [
                 {
                   "text": "Austrian",
@@ -56,6 +56,10 @@
                 {
                   "type": "internal",
                   "page": "Alexander Schallenberg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Karl Nehammer"
                 }
               ],
               "formatting": {
@@ -125,7 +129,7 @@
             "text": "7 January 2020"
           },
           "chancellor": {
-            "text": "Sebastian Kurz Alexander Schallenberg",
+            "text": "Sebastian Kurz Alexander Schallenberg Karl Nehammer",
             "links": [
               {
                 "type": "internal",
@@ -134,6 +138,10 @@
               {
                 "type": "internal",
                 "page": "Alexander Schallenberg"
+              },
+              {
+                "type": "internal",
+                "page": "Karl Nehammer"
               }
             ]
           },
@@ -157,7 +165,13 @@
             ]
           },
           "chancellor1": {
-            "text": "Sebastian Kurz Alexander Schallenberg"
+            "text": "Sebastian Kurz Alexander Schallenberg Karl Nehammer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karl Nehammer"
+              }
+            ]
           },
           "predecessor1": {
             "text": "Eduard Müller",
