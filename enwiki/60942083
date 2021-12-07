@@ -24,11 +24,12 @@
         {
           "sentences": [
             {
-              "text": "Alexander Georg Nicolas Schallenberg (born 20 June 1969) is an Austrian diplomat, jurist and politician who served as Chancellor of Austria since 11 October 2021.",
+              "text": "Alexander Georg Nicolas Schallenberg (born 20 June 1969) is an Austrian diplomat, jurist and politician who has served as foreign minister since 6 December 2021.",
               "links": [
                 {
+                  "text": "foreign minister",
                   "type": "internal",
-                  "page": "Chancellor of Austria"
+                  "page": "Foreign Minister of Austria"
                 }
               ],
               "formatting": {
@@ -38,16 +39,11 @@
               }
             },
             {
-              "text": "A member of the Austrian People's Party (ÖVP), he had previously served as foreign minister in the second government of Sebastian Kurz.",
+              "text": "A member of the Austrian People's Party (ÖVP), he had previously served as foreign minister in the second government of Sebastian Kurz before serving as Chancellor of Austria from 11 October to 6 December 2021.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Austrian People's Party"
-                },
-                {
-                  "text": "foreign minister",
-                  "type": "internal",
-                  "page": "Foreign Minister of Austria"
                 },
                 {
                   "text": "second government",
@@ -57,6 +53,10 @@
                 {
                   "type": "internal",
                   "page": "Sebastian Kurz"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chancellor of Austria"
                 }
               ]
             }
@@ -155,45 +155,6 @@
             "text": "Schallenberg in October 2021"
           },
           "office": {
-            "text": "Chancellor of Austria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chancellor of Austria"
-              }
-            ]
-          },
-          "president": {
-            "text": "Alexander Van der Bellen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alexander Van der Bellen"
-              }
-            ]
-          },
-          "1namedata": {
-            "text": "Werner Kogler",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Werner Kogler"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "11 October 2021"
-          },
-          "predecessor": {
-            "text": "Sebastian Kurz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastian Kurz"
-              }
-            ]
-          },
-          "office1": {
             "text": "Minister of Foreign Affairs",
             "links": [
               {
@@ -203,16 +164,24 @@
               }
             ]
           },
-          "chancellor1": {
-            "text": "Brigitte Bierlein\nSebastian Kurz",
+          "chancellor": {
+            "text": "Karl Nehammer",
             "links": [
               {
                 "type": "internal",
-                "page": "Brigitte Bierlein"
-              },
+                "page": "Karl Nehammer"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 December 2021"
+          },
+          "predecessor": {
+            "text": "Michael Linhart",
+            "links": [
               {
                 "type": "internal",
-                "page": "Sebastian Kurz"
+                "page": "Michael Linhart"
               }
             ]
           },
@@ -240,7 +209,71 @@
               }
             ]
           },
+          "chancellor1": {
+            "text": "Brigitte Bierlein\nSebastian Kurz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigitte Bierlein"
+              },
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              }
+            ]
+          },
           "office2": {
+            "text": "Chancellor of Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chancellor of Austria"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Alexander Van der Bellen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander Van der Bellen"
+              }
+            ]
+          },
+          "1namedata2": {
+            "text": "Werner Kogler",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Werner Kogler"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 October 2021"
+          },
+          "term_end2": {
+            "text": "6 December 2021"
+          },
+          "predecessor2": {
+            "text": "Sebastian Kurz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Karl Nehammer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karl Nehammer"
+              }
+            ]
+          },
+          "office3": {
             "text": "Minister of the Chancellery",
             "links": [
               {
@@ -250,7 +283,7 @@
               }
             ]
           },
-          "alongside2": {
+          "alongside3": {
             "text": "Ines Stilling",
             "links": [
               {
@@ -259,7 +292,7 @@
               }
             ]
           },
-          "chancellor2": {
+          "chancellor3": {
             "text": "Brigitte Bierlein",
             "links": [
               {
@@ -268,13 +301,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "6 June 2019"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "7 January 2020"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Gernot Blümel\nJuliane Bogner-Strauß",
             "links": [
               {
@@ -287,7 +320,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Christine Aschbacher\nKaroline Edtstadler\nSusanne Raab",
             "links": [
               {

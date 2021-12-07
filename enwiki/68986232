@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Michael Linhart (born 31 August 1958) is an Austrian diplomat and politician who has been serving as Federal Minister of Foreign Affairs of the Republic of Austria in the Schallenberg government since 2021.",
+              "text": "Michael Linhart (born 31 August 1958) is an Austrian diplomat and politician who served as minister of foreign affairs of the Republic of Austria in the Schallenberg government from 11 October to 6 December 2021.",
               "links": [
                 {
                   "text": "diplomat",
@@ -29,7 +29,7 @@
                   "page": "diplomat"
                 },
                 {
-                  "text": "Federal Minister of Foreign Affairs",
+                  "text": "minister of foreign affairs",
                   "type": "internal",
                   "page": "Minister of Foreign Affairs (Austria)"
                 },
@@ -45,11 +45,12 @@
               }
             },
             {
-              "text": "Before that, he was Ambassador of the Republic of Austria to France from 2018 to 2021 and Secretary-General at the Federal Ministry for Europe, Integration and Foreign Affairs from 2013 to 2018.",
+              "text": "Before that, he was ambassador of the Republic of Austria to France from 2018 to 2021 and Secretary-General at the Federal Ministry for Europe, Integration and Foreign Affairs from 2013 to 2018.",
               "links": [
                 {
+                  "text": "ambassador",
                   "type": "internal",
-                  "page": "Ambassador"
+                  "page": "ambassador"
                 },
                 {
                   "type": "internal",
@@ -86,10 +87,10 @@
             "text": "Michael Linhart in 2013"
           },
           "office": {
-            "text": "Federal Minister of Foreign Affairs",
+            "text": "Minister of Foreign Affairs",
             "links": [
               {
-                "text": "Federal Minister of Foreign Affairs",
+                "text": "Minister of Foreign Affairs",
                 "type": "internal",
                 "page": "Minister of Foreign Affairs (Austria)"
               }
@@ -107,7 +108,19 @@
           "termstart": {
             "text": "11 October 2021"
           },
+          "termend": {
+            "text": "6 December 2021"
+          },
           "predecessor": {
+            "text": "Alexander Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander Schallenberg"
+              }
+            ]
+          },
+          "successor": {
             "text": "Alexander Schallenberg",
             "links": [
               {

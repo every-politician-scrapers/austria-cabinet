@@ -19,16 +19,16 @@
         {
           "sentences": [
             {
-              "text": "Karl Nehammer (born 18 October 1972) is an Austrian politician of the Austrian People's Party (ÖVP) who has served as Minister of the Interior since January 2020.",
+              "text": "Karl Nehammer (born 18 October 1972) is an Austrian politician of the Austrian People's Party (ÖVP) who has served as chancellor of Austria since 6 December 2021.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Austrian People's Party"
                 },
                 {
-                  "text": "Minister of the Interior",
+                  "text": "chancellor of Austria",
                   "type": "internal",
-                  "page": "Ministry of the Interior (Austria)"
+                  "page": "chancellor of Austria"
                 }
               ],
               "formatting": {
@@ -38,8 +38,13 @@
               }
             },
             {
-              "text": "He was previously general-secretary of the ÖVP from 2018 to 2020, and a member of the National Council from 2017 to 2020.",
+              "text": "He was previously minister of the interior from 2020 to 2021, general-secretary of the ÖVP from 2018 to 2020, and a member of the National Council from 2017 to 2020.",
               "links": [
+                {
+                  "text": "minister of the interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Austria)"
+                },
                 {
                   "text": "National Council",
                   "type": "internal",
@@ -72,6 +77,48 @@
             "text": "2020 Karl Nehammer Ministerrat am 8.1.2020 (49351366976) (cropped).jpg"
           },
           "office": {
+            "text": "Chancellor of Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chancellor of Austria"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 December 2021"
+          },
+          "president": {
+            "text": "Alexander Van der Bellen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander Van der Bellen"
+              }
+            ]
+          },
+          "1blankname": {
+            "text": "Vice Chancellor"
+          },
+          "1namedata": {
+            "text": "Werner Kogler",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Werner Kogler"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Alexander Schallenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander Schallenberg"
+              }
+            ]
+          },
+          "office1": {
             "text": "Acting Chairman of the People's Party",
             "links": [
               {
@@ -81,10 +128,10 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "3 December 2021"
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Sebastian Kurz",
             "links": [
               {
@@ -93,7 +140,7 @@
               }
             ]
           },
-          "office1": {
+          "office2": {
             "text": "Minister of the Interior",
             "links": [
               {
@@ -103,10 +150,13 @@
               }
             ]
           },
-          "termstart1": {
+          "termstart2": {
             "text": "7 January 2020"
           },
-          "chancellor1": {
+          "termend2": {
+            "text": "6 December 2021"
+          },
+          "chancellor2": {
             "text": "Sebastian Kurz Alexander Schallenberg",
             "links": [
               {
@@ -119,7 +169,7 @@
               }
             ]
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Wolfgang Peschorn",
             "links": [
               {
@@ -128,7 +178,16 @@
               }
             ]
           },
-          "office2": {
+          "successor2": {
+            "text": "Gerhard Karner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gerhard Karner"
+              }
+            ]
+          },
+          "office3": {
             "text": "General-Secretary of the Austrian People's Party",
             "links": [
               {
@@ -137,13 +196,13 @@
               }
             ]
           },
-          "termstart2": {
+          "termstart3": {
             "text": "20 January 2018"
           },
-          "termend2": {
+          "termend3": {
             "text": "3 January 2020"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Elisabeth Köstinger Stefan Steiner",
             "links": [
               {
@@ -156,7 +215,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Axel Melchior",
             "links": [
               {
@@ -165,7 +224,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Member of the National Council",
             "links": [
               {
@@ -175,13 +234,13 @@
               }
             ]
           },
-          "termstart3": {
+          "termstart4": {
             "text": "9 November 2017"
           },
-          "termend3": {
+          "termend4": {
             "text": "7 January 2020"
           },
-          "successor3": {
+          "successor4": {
             "text": "Rudolf Taschner",
             "links": [
               {
