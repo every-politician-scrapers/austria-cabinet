@@ -4,11 +4,12 @@
   "categories": [
     "1972 births",
     "Living people",
-    "University of Innsbruck alumni",
-    "University of Vienna alumni",
     "Alumni of King's College London",
+    "Austrian People's Party politicians",
+    "Finance Ministers of Austria",
     "Members of the Federal Council (Austria)",
-    "Austrian People's Party politicians"
+    "University of Innsbruck alumni",
+    "University of Vienna alumni"
   ],
   "sections": [
     {
@@ -18,7 +19,13 @@
         {
           "sentences": [
             {
-              "text": "Magnus Brunner (born 6 May 1972) is an Austrian politician.",
+              "text": "Magnus Brunner (born 6 May 1972) is an Austrian politician of the Austrian People's Party (ÖVP).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Magnus Brunner"
@@ -26,7 +33,26 @@
               }
             },
             {
-              "text": "He is currently state secretary (Staatssekretär) at the Austrian Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology in the government of Chancellor Sebastian Kurz.",
+              "text": "He has served as Austria's finance minister since 6 December 2021 in the government of Chancellor Karl Nehammer.",
+              "links": [
+                {
+                  "text": "finance minister",
+                  "type": "internal",
+                  "page": "Federal Ministry of Finance (Austria)"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Nehammer government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Karl Nehammer"
+                }
+              ]
+            },
+            {
+              "text": "He served as state secretary (Staatssekretär) at the Austrian Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology in the government of Chancellor Sebastian Kurz.",
               "links": [
                 {
                   "type": "internal",
@@ -117,28 +143,45 @@
           "image": {
             "text": "File:2020_Magnus_Brunner_Ministerrat_am_8.1.2020_(49351370666)_(cropped)_(cropped).jpg"
           },
-          "birth_date": {
-            "text": "May 6, 1972"
-          },
-          "birth_place": {
-            "text": "Höchst, Voralberg, Austria",
+          "office": {
+            "text": "Minister of Finance",
             "links": [
               {
-                "text": "Höchst",
+                "text": "Minister of Finance",
                 "type": "internal",
-                "page": "Höchst, Austria"
-              },
-              {
-                "type": "internal",
-                "page": "Voralberg"
+                "page": "Minister of Finance (Austria)"
               }
             ]
           },
-          "office": {
+          "term_start": {
+            "text": "6 December 2021"
+          },
+          "chancellor": {
+            "text": "Karl Nehammer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karl Nehammer"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Gernot Blümel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gernot Blümel"
+              }
+            ]
+          },
+          "office1": {
             "text": "State Secretary"
           },
-          "term_start": {
+          "term_start1": {
             "text": "7 January 2020"
+          },
+          "term_end1": {
+            "text": "6 December 2021"
           },
           "office2": {
             "text": "Member of the Federal Council",
@@ -171,6 +214,23 @@
               {
                 "type": "internal",
                 "page": "Christine Schwarz-Fuchs"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 6, 1972"
+          },
+          "birth_place": {
+            "text": "Höchst, Voralberg, Austria",
+            "links": [
+              {
+                "text": "Höchst",
+                "type": "internal",
+                "page": "Höchst, Austria"
+              },
+              {
+                "type": "internal",
+                "page": "Voralberg"
               }
             ]
           },

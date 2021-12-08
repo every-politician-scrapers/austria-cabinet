@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Elisabeth Köstinger (born 22 November 1978) is an Austrian politician who is Minister for Sustainability and Tourism in the government of Chancellors Sebastian Kurz and Alexander Schallenberg since 7 January 2020.",
+              "text": "Elisabeth Köstinger (born 22 November 1978) is an Austrian politician who is Minister for Sustainability and Tourism in the government of Chancellors Sebastian Kurz, Alexander Schallenberg and Karl Nehammer since 7 January 2020.",
               "links": [
                 {
                   "text": "Austrian",
@@ -38,6 +38,10 @@
                 {
                   "type": "internal",
                   "page": "Alexander Schallenberg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Karl Nehammer"
                 }
               ],
               "formatting": {
@@ -133,7 +137,7 @@
             ]
           },
           "chancellor": {
-            "text": "Sebastian Kurz Alexander Schallenberg",
+            "text": "Sebastian Kurz Alexander Schallenberg Karl Nehammer",
             "links": [
               {
                 "type": "internal",
@@ -142,6 +146,10 @@
               {
                 "type": "internal",
                 "page": "Alexander Schallenberg"
+              },
+              {
+                "type": "internal",
+                "page": "Karl Nehammer"
               }
             ]
           },

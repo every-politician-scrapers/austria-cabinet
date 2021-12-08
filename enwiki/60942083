@@ -6,15 +6,15 @@
     "21st-century Austrian politicians",
     "21st-century Chancellors of Austria",
     "Austrian nobility",
-    "Counts of Austria",
-    "Living people",
-    "Foreign ministers of Austria",
-    "University of Vienna alumni",
-    "Panthéon-Assas University alumni",
     "College of Europe alumni",
+    "Counts of Austria",
+    "Foreign ministers of Austria",
+    "Knights Grand Cross of the Order of Merit of the Italian Republic",
+    "Living people",
+    "Panthéon-Assas University alumni",
     "People from Bern",
     "Schallenberg family",
-    "Knights Grand Cross of the Order of Merit of the Italian Republic"
+    "University of Vienna alumni"
   ],
   "sections": [
     {
@@ -100,14 +100,14 @@
         {
           "sentences": [
             {
-              "text": "Schallenberg announced his pending resignation on 2 December 2021, after less than 2 months in office."
+              "text": "Schallenberg announced his pending resignation on 2 December 2021, after less than two months in office."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Chancellor of Austria",
+          "description": "Foreign minister of Austria",
           "template": "short description"
         },
         {
@@ -145,9 +145,6 @@
       ],
       "infoboxes": [
         {
-          "name": {
-            "text": "Alexander Schallenberg"
-          },
           "image": {
             "text": "Alexander Schallenberg 12.10.2021 02.jpg"
           },

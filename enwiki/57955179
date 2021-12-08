@@ -76,6 +76,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Sebastian Kurz",
+            "Alexander Schallenberg",
+            "Karl Nehammer"
+          ],
+          "template": "ubl"
+        },
+        {
           "year": "1981",
           "month": "3",
           "day": "28",
@@ -101,17 +109,7 @@
             "text": "29 January 2020"
           },
           "chancellor": {
-            "text": "Sebastian Kurz Alexander Schallenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastian Kurz"
-              },
-              {
-                "type": "internal",
-                "page": "Alexander Schallenberg"
-              }
-            ]
+            "text": "Sebastian Kurz\n\nAlexander Schallenberg\n\nKarl Nehammer"
           },
           "predecessor": {
             "text": "Gernot Blümel",
