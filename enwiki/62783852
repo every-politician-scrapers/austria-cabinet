@@ -76,6 +76,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Sebastian Kurz",
+            "Alexander Schallenberg",
+            "Karl Nehammer"
+          ],
+          "template": "ubl"
+        },
+        {
           "year": "1984",
           "month": "05",
           "day": "24",
@@ -85,6 +93,46 @@
       ],
       "infoboxes": [
         {
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "List of Ministers of Justice (Austria)"
+              }
+            ]
+          },
+          "image": {
+            "text": "2018 Alma Zadić (39729494940) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Zadić in 2018"
+          },
+          "termstart": {
+            "text": "7 January 2020"
+          },
+          "chancellor": {
+            "text": "Sebastian Kurz\n\nAlexander Schallenberg\n\nKarl Nehammer"
+          },
+          "predecessor": {
+            "text": "Clemens Jabloner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Clemens Jabloner"
+              }
+            ]
+          },
+          "party": {
+            "text": "The Greens – The Green Alternative",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Greens – The Green Alternative"
+              }
+            ]
+          },
           "birth_date": {
             "text": "May 24, 1984"
           },
@@ -108,56 +156,6 @@
                 "page": "SFR Yugoslavia"
               }
             ]
-          },
-          "office": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "List of Ministers of Justice (Austria)"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Clemens Jabloner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Clemens Jabloner"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "7 January 2020"
-          },
-          "party": {
-            "text": "The Greens – The Green Alternative",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Greens – The Green Alternative"
-              }
-            ]
-          },
-          "chancellor": {
-            "text": "Sebastian Kurz Alexander Schallenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastian Kurz"
-              },
-              {
-                "type": "internal",
-                "page": "Alexander Schallenberg"
-              }
-            ]
-          },
-          "image": {
-            "text": "2018 Alma Zadić (39729494940) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Zadić in 2018"
           },
           "alma_mater": {
             "text": "University of Vienna Columbia University",

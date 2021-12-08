@@ -70,6 +70,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Sebastian Kurz",
+            "Alexander Schallenberg",
+            "Karl Nehammer"
+          ],
+          "template": "ubl"
+        },
+        {
           "df": "y",
           "year": "1970",
           "month": "05",
@@ -99,17 +107,7 @@
             "text": "7 January 2020"
           },
           "chancellor": {
-            "text": "Sebastian Kurz Alexander Schallenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastian Kurz"
-              },
-              {
-                "type": "internal",
-                "page": "Alexander Schallenberg"
-              }
-            ]
+            "text": "Sebastian Kurz\n\nAlexander Schallenberg\n\nKarl Nehammer"
           },
           "predecessor": {
             "text": "Thomas Starlinger"

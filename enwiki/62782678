@@ -19,16 +19,11 @@
         {
           "sentences": [
             {
-              "text": "Karl Nehammer (born 18 October 1972) is an Austrian politician of the Austrian People's Party (ÖVP) who has served as chancellor of Austria since 6 December 2021.",
+              "text": "Karl Nehammer (born 18 October 1972) is an Austrian politician serving as Chancellor of Austria since 6 December 2021.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Austrian People's Party"
-                },
-                {
-                  "text": "chancellor of Austria",
-                  "type": "internal",
-                  "page": "chancellor of Austria"
+                  "page": "Chancellor of Austria"
                 }
               ],
               "formatting": {
@@ -38,10 +33,14 @@
               }
             },
             {
-              "text": "He was previously minister of the interior from 2020 to 2021, general-secretary of the ÖVP from 2018 to 2020, and a member of the National Council from 2017 to 2020.",
+              "text": "He is a member of the Austrian People's Party (ÖVP) and previously served as Minister of the Interior from 2020 to 2021, General Secretary of the ÖVP from 2018 to 2020, and a member of the National Council from 2017 to 2020.",
               "links": [
                 {
-                  "text": "minister of the interior",
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                },
+                {
+                  "text": "Minister of the Interior",
                   "type": "internal",
                   "page": "Ministry of the Interior (Austria)"
                 },
@@ -57,7 +56,11 @@
       ],
       "templates": [
         {
-          "description": "Austrian politician",
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Austrian politician (ÖVP), Federal Chancellor of the Republic of Austria",
           "template": "short description"
         },
         {
@@ -70,9 +73,6 @@
       ],
       "infoboxes": [
         {
-          "name": {
-            "text": "Karl Nehammer"
-          },
           "image": {
             "text": "2020 Karl Nehammer Ministerrat am 8.1.2020 (49351366976) (cropped).jpg"
           },
@@ -289,6 +289,9 @@
           "children": {
             "text": "2",
             "number": 2
+          },
+          "caption": {
+            "text": "Nehammer in 2020"
           }
         }
       ],

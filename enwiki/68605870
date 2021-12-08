@@ -64,6 +64,14 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Sebastian Kurz",
+            "Alexander Schallenberg",
+            "Karl Nehammer"
+          ],
+          "template": "ubl"
+        },
+        {
           "year": "1974",
           "month": "7",
           "day": "5",
@@ -96,17 +104,7 @@
             "text": "19 April 2021"
           },
           "chancellor": {
-            "text": "Sebastian Kurz Alexander Schallenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastian Kurz"
-              },
-              {
-                "type": "internal",
-                "page": "Alexander Schallenberg"
-              }
-            ]
+            "text": "Sebastian Kurz\n\nAlexander Schallenberg\n\nKarl Nehammer"
           },
           "predecessor": {
             "text": "Rudolf Anschober",

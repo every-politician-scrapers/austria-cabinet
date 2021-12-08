@@ -67,6 +67,22 @@
           "template": "expand german"
         },
         {
+          "list": [
+            "Sebastian Kurz",
+            "Alexander Schallenberg",
+            "Karl Nehammer"
+          ],
+          "template": "ubl"
+        },
+        {
+          "list": [
+            "Sebastian Kurz",
+            "Alexander Schallenberg",
+            "Karl Nehammer"
+          ],
+          "template": "ubl"
+        },
+        {
           "df": "yes",
           "year": "1984",
           "month": "10",
@@ -86,17 +102,7 @@
             "text": "1 February 2021"
           },
           "chancellor": {
-            "text": "Sebastian Kurz Alexander Schallenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastian Kurz"
-              },
-              {
-                "type": "internal",
-                "page": "Alexander Schallenberg"
-              }
-            ]
+            "text": "Sebastian Kurz\n\nAlexander Schallenberg\n\nKarl Nehammer"
           },
           "predecessor": {
             "text": "Position established",
@@ -113,17 +119,7 @@
             "text": "7 January 2020"
           },
           "chancellor1": {
-            "text": "Sebastian Kurz Alexander Schallenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastian Kurz"
-              },
-              {
-                "type": "internal",
-                "page": "Alexander Schallenberg"
-              }
-            ]
+            "text": "Sebastian Kurz\n\nAlexander Schallenberg\n\nKarl Nehammer"
           },
           "predecessor1": {
             "text": "Juliane Bogner-Strauß (2019)",

@@ -65,6 +65,14 @@
           "template": "expand german"
         },
         {
+          "list": [
+            "Sebastian Kurz",
+            "Alexander Schallenberg",
+            "Karl Nehammer"
+          ],
+          "template": "ubl"
+        },
+        {
           "year": "1977",
           "month": "10",
           "day": "15",
@@ -91,17 +99,7 @@
             "text": "7 January 2020"
           },
           "chancellor": {
-            "text": "Sebastian Kurz Alexander Schallenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastian Kurz"
-              },
-              {
-                "type": "internal",
-                "page": "Alexander Schallenberg"
-              }
-            ]
+            "text": "Sebastian Kurz\n\nAlexander Schallenberg\n\nKarl Nehammer"
           },
           "predecessor": {
             "text": "Andreas Reichhardt",
