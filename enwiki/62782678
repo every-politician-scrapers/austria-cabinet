@@ -69,6 +69,10 @@
           "day": "18",
           "df": "yes",
           "template": "birth date and age"
+        },
+        {
+          "transcription": "kaɐ̯l ˈneːhamɐ",
+          "template": "ipa"
         }
       ],
       "infoboxes": [
@@ -98,7 +102,7 @@
             ]
           },
           "1blankname": {
-            "text": "Vice Chancellor"
+            "text": "Vice-Chancellor"
           },
           "1namedata": {
             "text": "Werner Kogler",
@@ -170,13 +174,7 @@
             ]
           },
           "predecessor2": {
-            "text": "Wolfgang Peschorn",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wolfgang Peschorn"
-              }
-            ]
+            "text": "Wolfgang Peschorn"
           },
           "successor2": {
             "text": "Gerhard Karner",
@@ -188,9 +186,10 @@
             ]
           },
           "office3": {
-            "text": "General-Secretary of the Austrian People's Party",
+            "text": "General-Secretary of the People's Party",
             "links": [
               {
+                "text": "People's Party",
                 "type": "internal",
                 "page": "Austrian People's Party"
               }
@@ -208,27 +207,17 @@
               {
                 "type": "internal",
                 "page": "Elisabeth Köstinger"
-              },
-              {
-                "type": "internal",
-                "page": "Stefan Steiner"
               }
             ]
           },
           "successor3": {
-            "text": "Axel Melchior",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Axel Melchior"
-              }
-            ]
+            "text": "Axel Melchior"
           },
           "office4": {
             "text": "Member of the National Council",
             "links": [
               {
-                "text": "Member of the National Council",
+                "text": "National Council",
                 "type": "internal",
                 "page": "National Council (Austria)"
               }
@@ -241,13 +230,7 @@
             "text": "7 January 2020"
           },
           "successor4": {
-            "text": "Rudolf Taschner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rudolf Taschner"
-              }
-            ]
+            "text": "Rudolf Taschner"
           },
           "birth_date": {
             "text": "October 18, 1972"
@@ -266,9 +249,10 @@
             ]
           },
           "party": {
-            "text": "Austrian People's Party",
+            "text": "People's Party",
             "links": [
               {
+                "text": "People's Party",
                 "type": "internal",
                 "page": "Austrian People's Party"
               }
@@ -284,7 +268,7 @@
             ]
           },
           "spouse": {
-            "text": "Katharina Nehammer"
+            "text": "Katharina Nidetzky"
           },
           "children": {
             "text": "2",
