@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Karoline Edtstadler (born 28 March 1981) is an Austrian lawyer and politician who has been serving as minister for the EU and the constitution at the Austrian Chancellery in the government of Chancellor Sebastian Kurz since 2020.",
+              "text": "Karoline Edtstadler (born 28 March 1981) is an Austrian lawyer and politician who has been serving as minister for the EU and the constitution at the Austrian Chancellery in the governments of Chancellors Sebastian Kurz, Alexander Schallenberg, and Karl Nehammer since 2020.",
               "links": [
                 {
                   "text": "Austrian",
@@ -31,13 +31,21 @@
                   "page": "Chancellery (Austria)"
                 },
                 {
-                  "text": "Chancellor",
+                  "text": "Chancellors",
                   "type": "internal",
                   "page": "Chancellor of Austria"
                 },
                 {
                   "type": "internal",
                   "page": "Sebastian Kurz"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alexander Schallenberg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Karl Nehammer"
                 }
               ],
               "formatting": {
@@ -97,7 +105,7 @@
             "text": "Karoline Edtstadler"
           },
           "image": {
-            "text": "2020 Karoline Edtstadler Ministerrat am 8.1.2020 (49351571042) (cropped).jpg"
+            "text": "Karoline Edtstadler in Brüssel (49413644531) (cropped).jpg"
           },
           "caption": {
             "text": "Edtstadler in 2020"

@@ -9,7 +9,8 @@
     "Austrian People's Party politicians",
     "Members of the National Council (Austria)",
     "Politicians from Vienna",
-    "21st-century Austrian politicians"
+    "21st-century Austrian politicians",
+    "20th-century Austrian military personnel"
   ],
   "sections": [
     {
@@ -202,13 +203,7 @@
             "text": "3 January 2020"
           },
           "predecessor3": {
-            "text": "Elisabeth Köstinger Stefan Steiner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elisabeth Köstinger"
-              }
-            ]
+            "text": "Stefan Steiner"
           },
           "successor3": {
             "text": "Axel Melchior"
@@ -249,10 +244,9 @@
             ]
           },
           "party": {
-            "text": "People's Party",
+            "text": "Austrian People's Party",
             "links": [
               {
-                "text": "People's Party",
                 "type": "internal",
                 "page": "Austrian People's Party"
               }

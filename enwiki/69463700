@@ -1,0 +1,174 @@
+{
+  "title": "Claudia Plakolm",
+  "pageID": 69463700,
+  "categories": [
+    "Members of the National Council (Austria)",
+    "21st-century politicians",
+    "Austrian People's Party politicians",
+    "Austrian people",
+    "1994 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Claudia Plakolm (born December 10, 1994 in Linz ) is an Austrian politician of the People's Party (ÖVP) and State Secretary in the federal government of Nehammer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Linz"
+                },
+                {
+                  "text": "Austrian",
+                  "type": "internal",
+                  "page": "Austrians"
+                },
+                {
+                  "text": "People's Party",
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                },
+                {
+                  "text": "State Secretary",
+                  "type": "internal",
+                  "page": "Secretary of state"
+                },
+                {
+                  "text": "federal government of Nehammer",
+                  "type": "internal",
+                  "page": "Nehammer government"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Claudia Plakolm"
+                ]
+              }
+            },
+            {
+              "text": "She was sworn in as a member of the National Council on November 9, 2017.",
+              "links": [
+                {
+                  "text": "National Council",
+                  "type": "internal",
+                  "page": "National Council (Austria)"
+                }
+              ]
+            },
+            {
+              "text": "Since May 15, 2021 she has been the federal chairman of the Young People's Party (JVP).",
+              "links": [
+                {
+                  "text": "Young People's Party",
+                  "type": "internal",
+                  "page": "Young People's Party (Austria)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1994",
+          "month": "12",
+          "day": "10",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "JVP-BO-PLAKOLM.jpg"
+          },
+          "office3": {
+            "text": "State Secretary in the Chancellery for Youth and Generations",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chancellery"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "December 6, 2021"
+          },
+          "birth_date": {
+            "text": "December 10, 1994"
+          },
+          "birth_place": {
+            "text": "Linz, Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Linz"
+              },
+              {
+                "type": "internal",
+                "page": "Austria"
+              }
+            ]
+          },
+          "education": {
+            "text": "Vienna University of Economics and Business",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vienna University of Economics and Business"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Claudia Plakolm - Staatssekretärin im Bundeskanzleramt",
+          "url": "https://www.meineabgeordneten.at/Abgeordnete/claudia.plakolm",
+          "access-date": "2021-12-08",
+          "website": "Meine Abgeordneten",
+          "language": "de-DE",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "ÖVP fixiert Mandate: Jüngste Abgeordnete ist 22",
+          "url": "https://www.nachrichten.at/archivierte-artikel/wahl2017/OEVP-fixiert-Mandate-Juengste-Abgeordnete-ist-22;art204165,2712498",
+          "access-date": "2021-12-08",
+          "website": "nachrichten.at",
+          "language": "de",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "red",
+          "first": "ORF at/Agenturen",
+          "date": "2021-05-15",
+          "title": "Wechsel an der Spitze der JVP",
+          "url": "https://orf.at/stories/3213152/",
+          "access-date": "2021-12-08",
+          "website": "news.ORF.at",
+          "language": "de",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
