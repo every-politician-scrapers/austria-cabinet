@@ -21,12 +21,8 @@
         {
           "sentences": [
             {
-              "text": "Margarete Schramböck (born May 12, 1970 in St. Johann in Tirol) is an Austrian business manager and politician.",
+              "text": "Margarete Schramböck (born May 12, 1970) is an Austrian business manager and politician.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "St. Johann in Tirol"
-                },
                 {
                   "text": "Austrian",
                   "type": "internal",
