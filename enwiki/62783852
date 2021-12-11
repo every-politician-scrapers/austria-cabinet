@@ -45,7 +45,7 @@
               }
             },
             {
-              "text": "She has been serving as Minister of Justice since 7 January 2020, in the governments of Chancellors Sebastian Kurz and later Alexander Schallenberg.",
+              "text": "She has been serving as Minister of Justice since 7 January 2020, in the governments of Chancellors Sebastian Kurz, Alexander Schallenberg and Karl Nehammer.",
               "links": [
                 {
                   "text": "Minister of Justice",
@@ -64,6 +64,10 @@
                 {
                   "type": "internal",
                   "page": "Alexander Schallenberg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Karl Nehammer"
                 }
               ]
             }
