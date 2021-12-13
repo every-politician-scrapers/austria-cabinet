@@ -132,10 +132,10 @@
       ],
       "references": [
         {
+          "url": "https://www.meineabgeordneten.at/Abgeordnete/martin.polaschek",
+          "title": "Martin Polaschek - Bundesminister für Bildung, Wissenschaft und Forschung",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "template": "citation",
@@ -144,16 +144,17 @@
           "inline": {}
         },
         {
+          "url": "https://www.krone.at/2573806",
+          "title": "\"Ich gelobe\": Nehammer ist neuer Bundeskanzler",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://steiermark.orf.at/v2/news/stories/2963255/",
+          "title": "Polaschek zum neuen Rektor der Uni Graz gekürt",
+          "date": "February 8, 2019",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     }
