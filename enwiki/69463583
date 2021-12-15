@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Gerhard Karner (born November 13, 1967 in Melk) is an Austrian politician (ÖVP) and Federal Minister of the Interior of the Republic of Austria.",
+              "text": "Gerhard Karner (born 13 November 1967 in Melk) is an Austrian politician (ÖVP) and Federal Minister of the Interior of the Republic of Austria.",
               "links": [
                 {
                   "type": "internal",
@@ -92,6 +92,7 @@
           "year": "1967",
           "month": "11",
           "day": "13",
+          "df": "y",
           "template": "birth date and age"
         }
       ],
@@ -111,7 +112,16 @@
             ]
           },
           "term_start3": {
-            "text": "December 6, 2021"
+            "text": "6 December 2021"
+          },
+          "chancellor3": {
+            "text": "Karl Nehammer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karl Nehammer"
+              }
+            ]
           },
           "predecessor3": {
             "text": "Karl Nehammer",
