@@ -2,12 +2,12 @@
   "title": "Martin Polaschek",
   "pageID": 69463503,
   "categories": [
+    "1965 births",
+    "Living people",
     "University of Graz faculty",
     "21st-century politicians",
     "University of Graz alumni",
-    "Austrian people",
-    "1965 births",
-    "Living people"
+    "Austrian people"
   ],
   "sections": [
     {
@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Martin F. Polaschek (born November 22, 1965 in Bruck an der Mur ) is an Austrian legal scholar, legal historian and Federal Minister for Education, Science and Research since December 6, 2021.",
+              "text": "Martin F. Polaschek (born November 22, 1965 in Bruck an der Mur, Austria) is an Austrian legal scholar, legal historian and Federal Minister for Education, Science and Research since December 6, 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -59,7 +59,7 @@
         },
         {
           "date": "December 2021",
-          "template": "linkrot"
+          "template": "improve categories"
         },
         {
           "date": "December 2021",
@@ -134,24 +134,29 @@
         {
           "url": "https://www.meineabgeordneten.at/Abgeordnete/martin.polaschek",
           "title": "Martin Polaschek - Bundesminister für Bildung, Wissenschaft und Forschung",
+          "website": "Meineabgeordneten.at",
           "template": "citation",
           "type": "web"
         },
         {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
           "url": "https://www.krone.at/2573806",
           "title": "\"Ich gelobe\": Nehammer ist neuer Bundeskanzler",
+          "website": "Krone.at",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://web.archive.org/web/20190727044413/https://rektorat.uni-graz.at/de/das-rektorat/vizerektor-polaschek/",
+          "title": "Vizerektor Polaschek",
+          "website": "Web.archive.org",
+          "access-date": "December 15, 2021",
           "template": "citation",
           "type": "web"
         },
         {
           "url": "https://steiermark.orf.at/v2/news/stories/2963255/",
           "title": "Polaschek zum neuen Rektor der Uni Graz gekürt",
+          "website": "Steiermark.orf.at",
           "date": "February 8, 2019",
           "template": "citation",
           "type": "web"
