@@ -7,7 +7,11 @@
     "University of Graz faculty",
     "21st-century politicians",
     "University of Graz alumni",
-    "Austrian people"
+    "Austrian people",
+    "21st-century Austrian politicians",
+    "Education ministers",
+    "Government ministers of Austria",
+    "Austrian legal scholars"
   ],
   "sections": [
     {
@@ -78,9 +82,6 @@
       ],
       "infoboxes": [
         {
-          "image": {
-            "text": "File:Martin Polaschek.jpg"
-          },
           "office3": {
             "text": "Federal Minister for Education, Science and Research",
             "links": [
