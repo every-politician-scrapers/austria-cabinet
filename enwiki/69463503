@@ -147,10 +147,11 @@
           "type": "web"
         },
         {
-          "url": "https://web.archive.org/web/20190727044413/https://rektorat.uni-graz.at/de/das-rektorat/vizerektor-polaschek/",
+          "url": "https://rektorat.uni-graz.at/de/das-rektorat/vizerektor-polaschek/",
           "title": "Vizerektor Polaschek",
-          "website": "Web.archive.org",
+          "archive-url": "https://web.archive.org/web/20190727044413/https://rektorat.uni-graz.at/de/das-rektorat/vizerektor-polaschek/",
           "access-date": "December 15, 2021",
+          "archive-date": "July 27, 2019",
           "template": "citation",
           "type": "web"
         },
