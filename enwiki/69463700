@@ -98,7 +98,7 @@
           "image": {
             "text": "JVP-BO-PLAKOLM.jpg"
           },
-          "office3": {
+          "office": {
             "text": "State Secretary in the Chancellery for Youth and Generations",
             "links": [
               {
@@ -108,7 +108,31 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start": {
+            "text": "December 6, 2021"
+          },
+          "office5": {
+            "text": "Member of the National Council for Upper Austria",
+            "links": [
+              {
+                "text": "National Council",
+                "type": "internal",
+                "page": "National Council (Austria)"
+              },
+              {
+                "text": "Upper Austria",
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "de"
+                }
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "November 9, 2017"
+          },
+          "term_end5": {
             "text": "December 6, 2021"
           },
           "birth_date": {
