@@ -1,5 +1,6 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q475658,President of Austria,Q40,Q40,,Q13534678,1920-11-10,,,,President of Austria
+Q1006398,Federal Chancellor of Austria,Q40,Q40,Q692110,Q695205,1920-11-10,,,,Chancellor of Austria
 Q692110,Vice-Chancellor of Austria,Q40,Q40,,,1919-03-15,,,,Vice-Chancellor of Austria
 Q108058643,"Federal Minister for Agriculture, Regions and Tourism",Q40,Q40,,,,,,,
 Q108058621,"Federal Minister for Arts, Culture, the Civil Service and Sport",Q40,Q40,,,,,,,
