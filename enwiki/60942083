@@ -400,33 +400,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.ots.at/presseaussendung/OTS_20211010_OTS0036/aviso-morgen-1300-uhr-ernennung-und-angelobung-von-bundeskanzler-alexander-schallenberg-durch-bundespraesident-alexander-van-der-bellen",
-          "title": "AVISO: Morgen, 13:00 Uhr: Ernennung und Angelobung von Bundeskanzler Alexander Schallenberg durch Bundespräsident Alexander Van der Bellen",
-          "date": "10 October 2021",
-          "website": "ots.at",
-          "access-date": "10 October 2021",
-          "language": "de",
-          "archive-date": "10 October 2021",
-          "archive-url": "https://web.archive.org/web/20211010154309/https://www.ots.at/presseaussendung/OTS_20211010_OTS0036/aviso-morgen-1300-uhr-ernennung-und-angelobung-von-bundeskanzler-alexander-schallenberg-durch-bundespraesident-alexander-van-der-bellen",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Sebastian Kurz \"macht Platz\" und zieht sich als Kanzler zurück",
-          "url": "https://www.derstandard.at/story/2000130311035/nach-juengsten-enthuellungen-sebastian-kurz-vor-rueckzug-als-kanzler",
-          "access-date": "9 October 2021",
-          "website": "DER STANDARD",
-          "language": "de-AT",
-          "archive-date": "9 October 2021",
-          "archive-url": "https://web.archive.org/web/20211009193645/https://www.derstandard.at/story/2000130311035/nach-juengsten-enthuellungen-sebastian-kurz-vor-rueckzug-als-kanzler",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

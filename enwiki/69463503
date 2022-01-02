@@ -130,39 +130,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.meineabgeordneten.at/Abgeordnete/martin.polaschek",
-          "title": "Martin Polaschek - Bundesminister für Bildung, Wissenschaft und Forschung",
-          "website": "Meineabgeordneten.at",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.krone.at/2573806",
-          "title": "\"Ich gelobe\": Nehammer ist neuer Bundeskanzler",
-          "website": "Krone.at",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://rektorat.uni-graz.at/de/das-rektorat/vizerektor-polaschek/",
-          "title": "Vizerektor Polaschek",
-          "archive-url": "https://web.archive.org/web/20190727044413/https://rektorat.uni-graz.at/de/das-rektorat/vizerektor-polaschek/",
-          "access-date": "December 15, 2021",
-          "archive-date": "July 27, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://steiermark.orf.at/v2/news/stories/2963255/",
-          "title": "Polaschek zum neuen Rektor der Uni Graz gekürt",
-          "website": "Steiermark.orf.at",
-          "date": "February 8, 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

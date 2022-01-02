@@ -151,26 +151,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.parlament.gv.at/WWER/PAD_06486/index.shtml",
-          "title": "MMag. Dr. Susanne Raab, Biografie",
-          "website": "www.parlament.gv.at",
-          "language": "de",
-          "access-date": "2020-01-08",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.dieniederoesterreicherin.at/people/180220_manbrauchteinedickehaut-137416/",
-          "title": "„Man braucht eine dicke Haut“",
-          "website": "Niederösterreicherin",
-          "language": "de",
-          "access-date": "2020-01-08",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

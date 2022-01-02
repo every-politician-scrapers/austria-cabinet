@@ -150,24 +150,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.derstandard.at/story/2000117568806/spitzenbeamtin-andrea-mayer-wird-kulturstaatssekretaerinder-gruenen",
-          "title": "Spitzenbeamtin Andrea Mayer wird Kulturstaatssekretärin der Grünen",
-          "website": "DER STANDARD",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://orf.at/stories/3166252/",
-          "title": "Kulturstaatssekretärin vorgestellt: Mayer verspricht unbürokratische Hilfe",
-          "first": "ORF at/Agenturen",
-          "date": "May 19, 2020",
-          "website": "news.ORF.at",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
