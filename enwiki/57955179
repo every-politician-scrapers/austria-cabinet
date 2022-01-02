@@ -223,45 +223,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Key dates ahead",
-          "url": "http://www.europarl.europa.eu/news/en/press-room/elections-press-kit/0/key-dates-ahead",
-          "publisher": "European Parliament",
-          "accessdate": "28 May 2019",
-          "language": "en",
-          "date": "20 May 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Key dates ahead",
-          "url": "https://www.bbc.co.uk/news/uk-48365702",
-          "publisher": "BBC News",
-          "accessdate": "28 May 2019",
-          "language": "en",
-          "date": "22 May 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "Interior Ministry of Austria",
-          "title": "Herbert Kickl",
-          "accessdate": "21 December 2017",
-          "url": "http://www.bmi.gv.at/101/Lebenslauf.aspx",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://salzburg.orf.at/news/stories/2884313/",
-          "title": "Salzburgerin Edtstadler neue Staatssekretärin",
-          "date": "2017-12-16",
-          "access-date": "2018-06-12",
-          "language": "de-DE",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

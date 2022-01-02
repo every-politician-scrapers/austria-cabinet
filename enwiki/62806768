@@ -144,29 +144,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://noe.orf.at/stories/3028183/",
-          "title": "Klaudia Tanner wird Verteidigungsministerin",
-          "date": "1 January 2020",
-          "website": "noe.ORF.at",
-          "language": "de",
-          "access-date": "12 January 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.ilkka.fi/uutiset/ulkomaat/itavallan-uusi-hallitus-vannoi-virkavalansa-kurzista-maailman-nuorin-paaministeri-1.3210403",
-          "title": "Itävallan uusi hallitus vannoi virkavalansa, Kurzista jälleen maailman nuorin pääministeri ohi Marinin",
-          "last": "Oy",
-          "first": "I.-Mediat",
-          "website": "Ilkka",
-          "language": "fi",
-          "access-date": "12 January 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

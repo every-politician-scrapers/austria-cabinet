@@ -161,38 +161,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Claudia Plakolm - Staatssekretärin im Bundeskanzleramt",
-          "url": "https://www.meineabgeordneten.at/Abgeordnete/claudia.plakolm",
-          "access-date": "2021-12-08",
-          "website": "Meine Abgeordneten",
-          "language": "de-DE",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "ÖVP fixiert Mandate: Jüngste Abgeordnete ist 22",
-          "url": "https://www.nachrichten.at/archivierte-artikel/wahl2017/OEVP-fixiert-Mandate-Juengste-Abgeordnete-ist-22;art204165,2712498",
-          "access-date": "2021-12-08",
-          "website": "nachrichten.at",
-          "language": "de",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "red",
-          "first": "ORF at/Agenturen",
-          "date": "2021-05-15",
-          "title": "Wechsel an der Spitze der JVP",
-          "url": "https://orf.at/stories/3213152/",
-          "access-date": "2021-12-08",
-          "website": "news.ORF.at",
-          "language": "de",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
