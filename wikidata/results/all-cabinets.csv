@@ -13,7 +13,6 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q1006664,Q1006664,,,,,,,,,,,,,,,,
 ,Q1006665,Q1006665,,,,,1990-01-01,9,,,Q877198,Q877198,Q1006666,Q1006666,,,,
 ,Q1006666,Q1006666,,,,,1994-01-01,9,,,Q1006665,Q1006665,Q876059,Q876059,,,,
-,Q15793055,Q15793055,,,,,,,,,,,,,,,,
 ,Q18221716,Q18221716,,,,,,,,,,,,,,,,
 ,Q18616923,Q18616923,,,,,,,,,,,,,,,,
 ,Q19276006,Q19276006,,,,,,,,,,,,,,,,
@@ -35,6 +34,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q1006654,Second Schober government,1922-01-27,11,,,1922-05-31,11,,,,,,,,,,
 ,Q44668732,Vaugoin cabinet,,,1930-09-30,11,,,1930-11-29,11,,,,,,,Q59953966,Ender government
 ,Q59953966,Ender government,1930-12-04,11,,,1931-06-16,11,,,,,,,Q44668732,Vaugoin cabinet,,
+,Q15793055,Q15793055,1933-09-21,11,,,1936-05-14,11,,,,,,,,,,
 ,Q338847,Q338847,1970-04-21,11,,,1971-11-04,11,,,Q876869,Q876869,Q736564,Q736564,,,,
 ,Q688604,First Schüssel cabinet,1999-10-03,11,,,2003-02-28,11,,,Q677878,Klima cabinet,Q688608,Second Schüssel cabinet,,,,
 ,Q688608,Second Schüssel cabinet,2003-02-28,11,,,2007-01-11,11,,,Q688604,First Schüssel cabinet,Q694863,Gusenbauer cabinet,,,,
