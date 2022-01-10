@@ -108,6 +108,24 @@
               }
             ]
           },
+          "president": {
+            "text": "Alexander Van der Bellen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander Van der Bellen"
+              }
+            ]
+          },
+          "chancellor": {
+            "text": "Karl Nehammer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karl Nehammer"
+              }
+            ]
+          },
           "term_start": {
             "text": "December 6, 2021"
           },
