@@ -34,7 +34,7 @@
               }
             },
             {
-              "text": "He is a member of the Austrian People's Party (ÖVP) and previously served as Minister of the Interior from 2020 to 2021, General Secretary of the ÖVP from 2018 to 2020, and a member of the National Council from 2017 to 2020.",
+              "text": "He is a member of the Austrian People's Party (ÖVP) who served as Minister of the Interior from 2020 to 2021, General Secretary of the ÖVP from 2018 to 2020, and a member of the National Council from 2017 to 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -253,9 +253,10 @@
             ]
           },
           "alma_mater": {
-            "text": "Danube University Krems",
+            "text": "University for Continuing Education Krems",
             "links": [
               {
+                "text": "University for Continuing Education Krems",
                 "type": "internal",
                 "page": "Danube University Krems"
               }
