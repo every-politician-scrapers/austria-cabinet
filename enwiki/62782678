@@ -65,6 +65,9 @@
           "template": "short description"
         },
         {
+          "template": "nca mp"
+        },
+        {
           "year": "1972",
           "month": "10",
           "day": "18",
@@ -207,16 +210,6 @@
           },
           "successor3": {
             "text": "Axel Melchior"
-          },
-          "office4": {
-            "text": "Member of the National Council",
-            "links": [
-              {
-                "text": "National Council",
-                "type": "internal",
-                "page": "National Council (Austria)"
-              }
-            ]
           },
           "termstart4": {
             "text": "9 November 2017"
