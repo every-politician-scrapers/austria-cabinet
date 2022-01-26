@@ -127,12 +127,22 @@
             ]
           },
           "office1": {
-            "text": "Acting Chairman of the People's Party",
+            "text": "Chair of the People's Party",
             "links": [
               {
-                "text": "Chairman of the People's Party",
+                "text": "Chair of the People's Party",
                 "type": "internal",
                 "page": "List of chairpersons of the Austrian People's Party"
+              }
+            ]
+          },
+          "status1": {
+            "text": "Acting",
+            "links": [
+              {
+                "text": "Acting",
+                "type": "internal",
+                "page": "Acting (law)"
               }
             ]
           },
@@ -154,7 +164,7 @@
               {
                 "text": "Minister of the Interior",
                 "type": "internal",
-                "page": "List of Ministers of the Interior (Austria)"
+                "page": "Ministry of the Interior (Austria)"
               }
             ]
           },
@@ -219,6 +229,16 @@
           },
           "successor4": {
             "text": "Rudolf Taschner"
+          },
+          "constituency4": {
+            "text": "9 – Vienna",
+            "links": [
+              {
+                "text": "9 – Vienna",
+                "type": "internal",
+                "page": "Vienna"
+              }
+            ]
           },
           "birth_date": {
             "text": "October 18, 1972"
