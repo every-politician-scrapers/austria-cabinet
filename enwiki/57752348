@@ -101,6 +101,9 @@
           "template": "short description"
         },
         {
+          "template": "nca mp"
+        },
+        {
           "year": "1961",
           "month": "11",
           "day": "20",
@@ -117,11 +120,11 @@
             "text": "2020 Werner Kogler (50670439058).jpg"
           },
           "office": {
-            "text": "Vice Chancellor of Austria",
+            "text": "Vice-Chancellor of Austria",
             "links": [
               {
                 "type": "internal",
-                "page": "Vice Chancellor of Austria"
+                "page": "Vice-Chancellor of Austria"
               }
             ]
           },
@@ -165,13 +168,7 @@
             ]
           },
           "chancellor1": {
-            "text": "Sebastian Kurz Alexander Schallenberg Karl Nehammer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karl Nehammer"
-              }
-            ]
+            "text": "Sebastian Kurz Alexander Schallenberg Karl Nehammer"
           },
           "predecessor1": {
             "text": "Eduard Müller",
@@ -187,11 +184,12 @@
             "text": "7 January 2020"
           },
           "office2": {
-            "text": "Spokesman of the Green Party",
+            "text": "Spokesperson of the Green Party",
             "links": [
               {
+                "text": "Spokesperson of the Green Party",
                 "type": "internal",
-                "page": "Spokesman of the Green Party"
+                "page": "Spokesperson of the Austrian Green Party"
               }
             ]
           },
@@ -207,27 +205,37 @@
               }
             ]
           },
-          "office3": {
-            "text": "Member of the National Council",
-            "links": [
-              {
-                "text": "National Council",
-                "type": "internal",
-                "page": "National Council (Austria)"
-              }
-            ]
-          },
           "term_start3": {
             "text": "23 October 2019"
           },
           "term_end3": {
             "text": "7 January 2020"
           },
+          "constituency3": {
+            "text": "6A – Graz and Umgebung",
+            "links": [
+              {
+                "text": "6A – Graz and Umgebung",
+                "type": "internal",
+                "page": "Graz-Umgebung District"
+              }
+            ]
+          },
           "term_start4": {
             "text": "29 October 1999"
           },
           "term_end4": {
             "text": "8 November 2017"
+          },
+          "constituency4": {
+            "text": "6 – Styria",
+            "links": [
+              {
+                "text": "6 – Styria",
+                "type": "internal",
+                "page": "Styria"
+              }
+            ]
           },
           "birth_date": {
             "text": "November 20, 1961"
@@ -256,7 +264,13 @@
             ]
           },
           "alma_mater": {
-            "text": "Karl Franzens University Graz"
+            "text": "University of Graz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Graz"
+              }
+            ]
           }
         }
       ]
