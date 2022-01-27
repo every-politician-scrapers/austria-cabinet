@@ -122,12 +122,6 @@
           "template": "use dmy dates"
         },
         {
-          "list": [
-            "Vice Chancellor"
-          ],
-          "template": "no wrap"
-        },
-        {
           "year": "1969",
           "month": "6",
           "day": "20",
@@ -154,7 +148,7 @@
               {
                 "text": "Minister of Foreign Affairs",
                 "type": "internal",
-                "page": "Minister of Foreign Affairs (Austria)"
+                "page": "Federal Ministry for European and International Affairs"
               }
             ]
           },
@@ -234,6 +228,9 @@
               }
             ]
           },
+          "1blankname2": {
+            "text": "Vice-Chancellor"
+          },
           "1namedata2": {
             "text": "Werner Kogler",
             "links": [
@@ -271,7 +268,7 @@
             "text": "Minister of the Chancellery",
             "links": [
               {
-                "text": "Chancellery",
+                "text": "Minister of the Chancellery",
                 "type": "internal",
                 "page": "Chancellery (Austria)"
               }
