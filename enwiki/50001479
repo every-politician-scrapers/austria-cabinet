@@ -127,6 +127,9 @@
           "template": "use dmy dates"
         },
         {
+          "template": "nca mp"
+        },
+        {
           "df": "yes",
           "year": "1971",
           "month": "3",
@@ -153,17 +156,9 @@
             "text": "Third President of the National Council",
             "links": [
               {
+                "text": "Third President of the National Council",
                 "type": "internal",
-                "page": "Third President of the National Council"
-              }
-            ]
-          },
-          "president": {
-            "text": "Wolfgang Sobotka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wolfgang Sobotka"
+                "page": "Third President of the National Council (Austria)"
               }
             ]
           },
@@ -176,19 +171,6 @@
               {
                 "type": "internal",
                 "page": "Anneliese Kitzmüller"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Barbara Prammer\nDoris Bures",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barbara Prammer"
-              },
-              {
-                "type": "internal",
-                "page": "Doris Bures"
               }
             ]
           },
@@ -217,7 +199,7 @@
             ]
           },
           "office2": {
-            "text": "Chairman of the Freedom Party",
+            "text": "Chair of the Freedom Party",
             "links": [
               {
                 "text": "Freedom Party",
@@ -226,24 +208,11 @@
               }
             ]
           },
-          "1blankname2": {
-            "text": "Secretary-General"
-          },
-          "1namedata2": {
-            "text": "Christian Hafenecker Harald Vilimsky",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Christian Hafenecker"
-              },
-              {
-                "type": "internal",
-                "page": "Harald Vilimsky"
-              }
-            ]
-          },
           "term_start2": {
             "text": "14 September 2019"
+          },
+          "term_end2": {
+            "text": "1 June 2021"
           },
           "predecessor2": {
             "text": "Heinz-Christian Strache",
@@ -254,8 +223,24 @@
               }
             ]
           },
+          "successor2": {
+            "text": "Herbert Kickl",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Herbert Kickl"
+              }
+            ]
+          },
           "office3": {
-            "text": "[[Ministry of Transport (Austria)|Minister of Transport, Innovation\nand Technology]]"
+            "text": "Minister of Transport",
+            "links": [
+              {
+                "text": "Minister of Transport",
+                "type": "internal",
+                "page": "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology"
+              }
+            ]
           },
           "chancellor3": {
             "text": "Sebastian Kurz",
@@ -290,23 +275,64 @@
               }
             ]
           },
-          "office4": {
-            "text": "Member of the National Council",
+          "term_start4": {
+            "text": "23 October 2019"
+          },
+          "nominator4": {
+            "text": "Himself"
+          },
+          "1blankname4": {
+            "text": "Affiliation"
+          },
+          "1namedata4": {
+            "text": "Freedom Party",
             "links": [
               {
-                "text": "Member of the National Council",
+                "text": "Freedom Party",
                 "type": "internal",
-                "page": "National Council (Austria)"
+                "page": "Freedom Party of Austria"
               }
             ]
           },
-          "term_start4": {
-            "text": "30 October 2006"
+          "term_start5": {
+            "text": "24 May 2019"
           },
-          "term_end4": {
+          "term_end5": {
+            "text": "22 October 2019"
+          },
+          "constituency5": {
+            "text": "1 – Burgenland",
+            "links": [
+              {
+                "text": "1 – Burgenland",
+                "type": "internal",
+                "page": "Burgenland"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "28 October 2008"
+          },
+          "term_end6": {
             "text": "18 December 2017"
           },
-          "nominator4": {
+          "constituency6": {
+            "text": "1 – Burgenland",
+            "links": [
+              {
+                "text": "1 – Burgenland",
+                "type": "internal",
+                "page": "Burgenland"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "30 October 2006"
+          },
+          "term_end7": {
+            "text": "27 October 2008"
+          },
+          "nominator7": {
             "text": "Heinz-Christian Strache",
             "links": [
               {
@@ -315,10 +341,10 @@
               }
             ]
           },
-          "1blankname4": {
+          "1blankname7": {
             "text": "Affiliation"
           },
-          "1namedata4": {
+          "1namedata7": {
             "text": "Freedom Party",
             "links": [
               {
@@ -370,18 +396,6 @@
           },
           "website": {
             "text": "Parliament website"
-          },
-          "termend2": {
-            "text": "1 June 2021 Acting: 22 May 2019 – 14 September 2019"
-          },
-          "successor2": {
-            "text": "Herbert Kickl",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Herbert Kickl"
-              }
-            ]
           }
         }
       ]
