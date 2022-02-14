@@ -19,22 +19,12 @@
         {
           "sentences": [
             {
-              "text": "Magnus Brunner (born 6 May 1972) is an Austrian politician of the Austrian People's Party (ÖVP).",
+              "text": "Magnus Brunner (born 6 May 1972) is an Austrian politician of the Austrian People's Party (ÖVP) who has been serving as Austria's finance minister since 6 December 2021 in the government of Chancellor Karl Nehammer.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Austrian People's Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Magnus Brunner"
-                ]
-              }
-            },
-            {
-              "text": "He has served as Austria's finance minister since 6 December 2021 in the government of Chancellor Karl Nehammer.",
-              "links": [
+                },
                 {
                   "text": "finance minister",
                   "type": "internal",
@@ -49,75 +39,12 @@
                   "type": "internal",
                   "page": "Karl Nehammer"
                 }
-              ]
-            },
-            {
-              "text": "He served as state secretary (Staatssekretär) at the Austrian Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology in the government of Chancellor Sebastian Kurz.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology"
-                },
-                {
-                  "text": "government",
-                  "type": "internal",
-                  "page": "Second Kurz government"
-                },
-                {
-                  "text": "Chancellor",
-                  "type": "internal",
-                  "page": "Chancellor of Austria"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sebastian Kurz"
-                }
               ],
               "formatting": {
-                "italic": [
-                  "Staatssekretär"
+                "bold": [
+                  "Magnus Brunner"
                 ]
               }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Brunner has been a member of the Federal Council for the Austrian People's Party (ÖVP) from 1 May 2009 until 6 January 2020.",
-              "links": [
-                {
-                  "text": "Federal Council",
-                  "type": "internal",
-                  "page": "Federal Council (Austria)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Austrian People's Party"
-                },
-                {
-                  "text": "ÖVP",
-                  "type": "internal",
-                  "page": "Austrian People's Party"
-                }
-              ]
-            },
-            {
-              "text": "He was educated at the University of Innsbruck, the University of Vienna and King's College London (LLM).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "University of Innsbruck"
-                },
-                {
-                  "type": "internal",
-                  "page": "University of Vienna"
-                },
-                {
-                  "type": "internal",
-                  "page": "King's College London"
-                }
-              ]
             }
           ]
         }
