@@ -1,33 +1,36 @@
 position,title
-Q23711521,member of the regional parliament of Vienna
-Q87275062,Member of Landtag of Vorarlberg,Vorarlberg
-Q88985775,member of the Upper Austrian state parliament,Upper Austria
-Q25608222,member of the Styrian state parliament
-Q18821575,Member of the Landtag of Lower Austria
-Q62091344,member of the Landtag of Burgenland
-Q23710976,Member of the Landtag of Salzburg
-Q88748902,Member of the Landtag of Tyrol
 Q2325273,Secretary of State
+Q1006360,Bundesminister
+Q1647332,Landtagspräsident
 Q1646567,President of the Federal Council
 Q41436150,President of the Constitutional Court
 Q42265218,Vice-president of the Constitutional Court
 Q41554984,President of the Supreme Administrative Court
+Q37724484,President of the Court of Audit
 Q24256540,governor of Carinthia
 Q66312088,ambassador to Belgium
-Q27236644,ambassador to France,
+Q40338215,ambassador to Canada
+Q27236644,ambassador to France
+Q27257841,ambassador to Germany
 Q66309268,ambassador to Hungary
 Q84915228,ambassador to Israel
 Q110016383,ambassador to Luxembourg
+Q30301554,ambassador to Norway
 Q40767071,ambassador to Poland
 Q66817677,ambassador to Romania
+Q30505050,ambassador to Slovakia
+Q107420311,ambassador to South Africa
+Q27257823,ambassador to Spain
 Q27236749,ambassador to Switzerland
 Q109885910,ambassador to Turkey
 Q40772409,ambassador to the United Kingdom
-Q27257207,ambassador to the United States
+Q27257207,ambassador to the United States of America
+Q30158513,ambassador to Uruguay
+Q65954553,ambassador to the Holy See
 Q105702250,Permanent Representative of Austria to the European Union
 Q63614140,Permanent Representative of Hungary the United Nations Office at Vienna
-Q41597564,President of the Supreme Court of Justice,Austria,Austria,3
-Q37737345,Judge at the Supreme Court of Justice,Austria,Austria,3
+Q41597564,President of the Supreme Court of Justice
+Q37737345,Judge at the Supreme Court of Justice
 Q99578844,mayor of Linz
 Q100273598,mayor of Salzburg
-Q1006360,Bundesminister
+Q52765148,mayor of Innsbruck
