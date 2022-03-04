@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Wolfgang Sobotka (born 5 January 1956 in Waidhofen an der Ybbs) is an Austrian teacher, conductor and politician of the Austrian People's Party (ÖVP) who has been the President of the Austrian National Council since 20 December 2017.",
+              "text": "Wolfgang Sobotka (born 5 January 1956 in Waidhofen an der Ybbs) is an Austrian teacher, conductor and politician of the Austrian People's Party (ÖVP) who has been the president of the Austrian National Council since 20 December 2017.",
               "links": [
                 {
                   "type": "internal",
@@ -34,7 +34,7 @@
                   "page": "Austrian People's Party"
                 },
                 {
-                  "text": "President of the Austrian National Council",
+                  "text": "president of the Austrian National Council",
                   "type": "internal",
                   "page": "List of Presidents of the National Council of Austria"
                 }

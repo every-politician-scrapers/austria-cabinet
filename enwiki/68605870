@@ -34,7 +34,7 @@
               }
             },
             {
-              "text": "He serves as Minister of Social Affairs, Health Care and Consumer Protection in the governments of chancellors Sebastian Kurz and Alexander Schallenberg since 19 April 2021.",
+              "text": "He serves as Minister of Social Affairs, Health Care and Consumer Protection in the governments of chancellors Sebastian Kurz, Alexander Schallenberg and Karl Nehammer since 19 April 2021.",
               "links": [
                 {
                   "text": "Minister of Social Affairs, Health Care and Consumer Protection",
@@ -48,6 +48,10 @@
                 {
                   "type": "internal",
                   "page": "Alexander Schallenberg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Karl Nehammer"
                 }
               ]
             }
