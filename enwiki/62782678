@@ -1,291 +1,35 @@
 {
-  "title": "Karl Nehammer",
-  "pageID": 62782678,
-  "categories": [
-    "Living people",
-    "1972 births",
-    "Government ministers of Austria",
-    "Interior Ministers of Austria",
-    "Austrian People's Party politicians",
-    "Members of the National Council (Austria)",
-    "Politicians from Vienna",
-    "21st-century Austrian politicians",
-    "20th-century Austrian military personnel"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Karl Nehammer (born 18 October 1972) is an Austrian politician serving as Chancellor of Austria since 6 December 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chancellor of Austria"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Karl Nehammer"
-                ]
-              }
-            },
-            {
-              "text": "He is a member of the Austrian People's Party (ÖVP) who served as Minister of the Interior from 2020 to 2021, General Secretary of the ÖVP from 2018 to 2020, and a member of the National Council from 2017 to 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Austrian People's Party"
-                },
-                {
-                  "text": "Minister of the Interior",
-                  "type": "internal",
-                  "page": "Ministry of the Interior (Austria)"
-                },
-                {
-                  "text": "National Council",
-                  "type": "internal",
-                  "page": "National Council (Austria)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "December 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "description": "Austrian politician (ÖVP), Federal Chancellor of the Republic of Austria",
-          "template": "short description"
-        },
-        {
-          "template": "nca mp"
-        },
-        {
-          "year": "1972",
-          "month": "10",
-          "day": "18",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "kaɐ̯l ˈneːhamɐ",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "2020 Karl Nehammer Ministerrat am 8.1.2020 (49351572787) (cropped).jpg"
-          },
-          "office": {
-            "text": "Chancellor of Austria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chancellor of Austria"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 December 2021"
-          },
-          "president": {
-            "text": "Alexander Van der Bellen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alexander Van der Bellen"
-              }
-            ]
-          },
-          "1blankname": {
-            "text": "Vice-Chancellor"
-          },
-          "1namedata": {
-            "text": "Werner Kogler",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Werner Kogler"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Alexander Schallenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alexander Schallenberg"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chair of the People's Party",
-            "links": [
-              {
-                "text": "Chair of the People's Party",
-                "type": "internal",
-                "page": "List of chairpersons of the Austrian People's Party"
-              }
-            ]
-          },
-          "status1": {
-            "text": "Acting",
-            "links": [
-              {
-                "text": "Acting",
-                "type": "internal",
-                "page": "Acting (law)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "3 December 2021"
-          },
-          "predecessor1": {
-            "text": "Sebastian Kurz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastian Kurz"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of the Interior",
-            "links": [
-              {
-                "text": "Minister of the Interior",
-                "type": "internal",
-                "page": "Ministry of the Interior (Austria)"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "7 January 2020"
-          },
-          "termend2": {
-            "text": "6 December 2021"
-          },
-          "chancellor2": {
-            "text": "Sebastian Kurz Alexander Schallenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastian Kurz"
-              },
-              {
-                "type": "internal",
-                "page": "Alexander Schallenberg"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Wolfgang Peschorn"
-          },
-          "successor2": {
-            "text": "Gerhard Karner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gerhard Karner"
-              }
-            ]
-          },
-          "office3": {
-            "text": "General-Secretary of the People's Party",
-            "links": [
-              {
-                "text": "People's Party",
-                "type": "internal",
-                "page": "Austrian People's Party"
-              }
-            ]
-          },
-          "termstart3": {
-            "text": "20 January 2018"
-          },
-          "termend3": {
-            "text": "3 January 2020"
-          },
-          "predecessor3": {
-            "text": "Stefan Steiner"
-          },
-          "successor3": {
-            "text": "Axel Melchior"
-          },
-          "termstart4": {
-            "text": "9 November 2017"
-          },
-          "termend4": {
-            "text": "7 January 2020"
-          },
-          "successor4": {
-            "text": "Rudolf Taschner"
-          },
-          "constituency4": {
-            "text": "9 – Vienna",
-            "links": [
-              {
-                "text": "9 – Vienna",
-                "type": "internal",
-                "page": "Vienna"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 18, 1972"
-          },
-          "birth_place": {
-            "text": "Vienna, Austria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vienna"
-              },
-              {
-                "type": "internal",
-                "page": "Austria"
-              }
-            ]
-          },
-          "party": {
-            "text": "Austrian People's Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Austrian People's Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University for Continuing Education Krems",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University for Continuing Education Krems"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Katharina Nidetzky"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "caption": {
-            "text": "Nehammer in 2020"
-          }
-        }
-      ]
-    }
-  ]
+  "image": "2020 Karl Nehammer Ministerrat am 8.1.2020 (49351572787) (cropped).jpg",
+  "office": "Chancellor of Austria",
+  "term_start": "6 December 2021",
+  "president": "Alexander Van der Bellen",
+  "1blankname": "Vice-Chancellor",
+  "1namedata": "Werner Kogler",
+  "predecessor": "Alexander Schallenberg",
+  "office1": "Chair of the People's Party",
+  "status1": "Acting",
+  "term_start1": "3 December 2021",
+  "predecessor1": "Sebastian Kurz",
+  "office2": "Minister of the Interior",
+  "termstart2": "7 January 2020",
+  "termend2": "6 December 2021",
+  "chancellor2": "Sebastian Kurz Alexander Schallenberg",
+  "predecessor2": "Wolfgang Peschorn",
+  "successor2": "Gerhard Karner",
+  "office3": "General-Secretary of the People's Party",
+  "termstart3": "20 January 2018",
+  "termend3": "3 January 2020",
+  "predecessor3": "Stefan Steiner",
+  "successor3": "Axel Melchior",
+  "termstart4": "9 November 2017",
+  "termend4": "7 January 2020",
+  "successor4": "Rudolf Taschner",
+  "constituency4": "9 – Vienna",
+  "birth_date": "October 18, 1972",
+  "birth_place": "Vienna, Austria",
+  "party": "Austrian People's Party",
+  "alma_mater": "University for Continuing Education Krems",
+  "spouse": "Katharina Nidetzky",
+  "children": "2",
+  "caption": "Nehammer in 2020"
 }
