@@ -1,404 +1,45 @@
 {
-  "title": "Norbert Hofer",
-  "pageID": 50001479,
-  "categories": [
-    "1971 births",
-    "21st-century Austrian politicians",
-    "Austrian anti-communists",
-    "Austrian eurosceptics",
-    "Austrian Protestants",
-    "Candidates for President of Austria",
-    "Converts to Protestantism from Catholicism",
-    "Freedom Party of Austria politicians",
-    "Living people",
-    "Members of the National Council (Austria)",
-    "People from Burgenland",
-    "People from Pinkafeld",
-    "Presidents of the National Council (Austria)",
-    "Right-wing populism in Austria",
-    "Government ministers of Austria"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Norbert Gerwald Hofer (born 2 March 1971) is an Austrian politician who served as Leader of the Freedom Party of Austria (FPÖ) from June 2019 to June 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Freedom Party of Austria"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Norbert Gerwald Hofer"
-                ]
-              }
-            },
-            {
-              "text": "He previously was Minister for Transport, Innovation and Technology from 2017 to 2019 under Chancellor Sebastian Kurz.",
-              "links": [
-                {
-                  "text": "Minister for Transport, Innovation and Technology",
-                  "type": "internal",
-                  "page": "Ministry of Transport (Austria)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sebastian Kurz"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Hofer served as Third President of the National Council from 2013 to 2017.",
-              "links": [
-                {
-                  "text": "Third President of the National Council",
-                  "type": "internal",
-                  "page": "President of the National Council (Austria)",
-                  "anchor": "List of third presidents"
-                }
-              ]
-            },
-            {
-              "text": "He was his party's candidate in the 2016 presidential election.",
-              "links": [
-                {
-                  "text": "2016 presidential election",
-                  "type": "internal",
-                  "page": "2016 Austrian presidential election"
-                }
-              ]
-            },
-            {
-              "text": "Hofer won the first round, receiving 35.1%, but was defeated by The Greens' candidate Alexander Van der Bellen, 53.8% against 46.2%, in the final runoff (an earlier runoff was invalidated).",
-              "links": [
-                {
-                  "text": "The Greens",
-                  "type": "internal",
-                  "page": "The Greens – The Green Alternative"
-                },
-                {
-                  "type": "internal",
-                  "page": "Alexander Van der Bellen"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He later served as Minister for Transport in the first Kurz government from 2017 to 2019.",
-              "links": [
-                {
-                  "text": "Minister for Transport",
-                  "type": "internal",
-                  "page": "Ministry of Transport (Austria)"
-                },
-                {
-                  "text": "first Kurz government",
-                  "type": "internal",
-                  "page": "first Kurz government"
-                }
-              ]
-            },
-            {
-              "text": "He became Leader of the Freedom Party in September 2019, after holding the office in an acting capacity from May to September 2019."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Austrian politician (born 1971)",
-          "template": "short description"
-        },
-        {
-          "date": "December 2016",
-          "template": "use dmy dates"
-        },
-        {
-          "template": "nca mp"
-        },
-        {
-          "df": "yes",
-          "year": "1971",
-          "month": "3",
-          "day": "2",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "ˈnɔɐ̯bɐt ˈhoːfɐ",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Norbert Hofer"
-          },
-          "image": {
-            "text": "Norbert Hofer - FPÖ-Neujahrstreffen 2019.JPG"
-          },
-          "caption": {
-            "text": "Hofer in 2019"
-          },
-          "office": {
-            "text": "Third President of the National Council",
-            "links": [
-              {
-                "text": "Third President of the National Council",
-                "type": "internal",
-                "page": "Third President of the National Council (Austria)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "23 October 2019"
-          },
-          "predecessor": {
-            "text": "Anneliese Kitzmüller",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anneliese Kitzmüller"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "29 October 2013"
-          },
-          "term_end1": {
-            "text": "18 December 2017"
-          },
-          "predecessor1": {
-            "text": "Martin Graf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Martin Graf"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Anneliese Kitzmüller",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anneliese Kitzmüller"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Chair of the Freedom Party",
-            "links": [
-              {
-                "text": "Freedom Party",
-                "type": "internal",
-                "page": "Freedom Party of Austria"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "14 September 2019"
-          },
-          "term_end2": {
-            "text": "1 June 2021"
-          },
-          "predecessor2": {
-            "text": "Heinz-Christian Strache",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Heinz-Christian Strache"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Herbert Kickl",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Herbert Kickl"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Transport",
-            "links": [
-              {
-                "text": "Minister of Transport",
-                "type": "internal",
-                "page": "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology"
-              }
-            ]
-          },
-          "chancellor3": {
-            "text": "Sebastian Kurz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastian Kurz"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "18 December 2017"
-          },
-          "term_end3": {
-            "text": "22 May 2019"
-          },
-          "predecessor3": {
-            "text": "Jörg Leichtfried",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jörg Leichtfried"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Valerie Hackl",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Valerie Hackl"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "23 October 2019"
-          },
-          "nominator4": {
-            "text": "Himself"
-          },
-          "1blankname4": {
-            "text": "Affiliation"
-          },
-          "1namedata4": {
-            "text": "Freedom Party",
-            "links": [
-              {
-                "text": "Freedom Party",
-                "type": "internal",
-                "page": "Freedom Party of Austria"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "24 May 2019"
-          },
-          "term_end5": {
-            "text": "22 October 2019"
-          },
-          "constituency5": {
-            "text": "1 – Burgenland",
-            "links": [
-              {
-                "text": "1 – Burgenland",
-                "type": "internal",
-                "page": "Burgenland"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "28 October 2008"
-          },
-          "term_end6": {
-            "text": "18 December 2017"
-          },
-          "constituency6": {
-            "text": "1 – Burgenland",
-            "links": [
-              {
-                "text": "1 – Burgenland",
-                "type": "internal",
-                "page": "Burgenland"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "30 October 2006"
-          },
-          "term_end7": {
-            "text": "27 October 2008"
-          },
-          "nominator7": {
-            "text": "Heinz-Christian Strache",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Heinz-Christian Strache"
-              }
-            ]
-          },
-          "1blankname7": {
-            "text": "Affiliation"
-          },
-          "1namedata7": {
-            "text": "Freedom Party",
-            "links": [
-              {
-                "text": "Freedom Party",
-                "type": "internal",
-                "page": "Freedom Party of Austria"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Norbert Gerwald Hofer"
-          },
-          "birth_date": {
-            "text": "March 2, 1971"
-          },
-          "birth_place": {
-            "text": "Vorau, Hartberg-Fürstenfeld, Styria, Austria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vorau"
-              },
-              {
-                "type": "internal",
-                "page": "Hartberg-Fürstenfeld"
-              },
-              {
-                "type": "internal",
-                "page": "Styria"
-              }
-            ]
-          },
-          "party": {
-            "text": "Freedom Party",
-            "links": [
-              {
-                "text": "Freedom Party",
-                "type": "internal",
-                "page": "Freedom Party of Austria"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Verena Malus"
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          },
-          "website": {
-            "text": "Parliament website"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Norbert Hofer",
+  "image": "Norbert Hofer - FPÖ-Neujahrstreffen 2019.JPG",
+  "caption": "Hofer in 2019",
+  "office": "Third President of the National Council",
+  "term_start": "23 October 2019",
+  "predecessor": "Anneliese Kitzmüller",
+  "term_start1": "29 October 2013",
+  "term_end1": "18 December 2017",
+  "predecessor1": "Martin Graf",
+  "successor1": "Anneliese Kitzmüller",
+  "office2": "Chair of the Freedom Party",
+  "term_start2": "14 September 2019",
+  "term_end2": "1 June 2021",
+  "predecessor2": "Heinz-Christian Strache",
+  "successor2": "Herbert Kickl",
+  "office3": "Minister of Transport",
+  "chancellor3": "Sebastian Kurz",
+  "term_start3": "18 December 2017",
+  "term_end3": "22 May 2019",
+  "predecessor3": "Jörg Leichtfried",
+  "successor3": "Valerie Hackl",
+  "term_start4": "23 October 2019",
+  "nominator4": "Himself",
+  "1blankname4": "Affiliation",
+  "1namedata4": "Freedom Party",
+  "term_start5": "24 May 2019",
+  "term_end5": "22 October 2019",
+  "constituency5": "1 – Burgenland",
+  "term_start6": "28 October 2008",
+  "term_end6": "18 December 2017",
+  "constituency6": "1 – Burgenland",
+  "term_start7": "30 October 2006",
+  "term_end7": "27 October 2008",
+  "nominator7": "Heinz-Christian Strache",
+  "1blankname7": "Affiliation",
+  "1namedata7": "Freedom Party",
+  "birth_name": "Norbert Gerwald Hofer",
+  "birth_date": "March 2, 1971",
+  "birth_place": "Vorau, Hartberg-Fürstenfeld, Styria, Austria",
+  "party": "Freedom Party",
+  "spouse": "Verena Malus",
+  "children": "4",
+  "website": "Parliament website"
 }
