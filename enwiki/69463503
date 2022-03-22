@@ -1,8 +1,11 @@
 {
-  "office3": "Federal Minister for Education, Science and Research",
-  "term_start3": "December 6, 2021",
-  "predecessor3": "Heinz Faßmann",
+  "image": "Martin Polaschek bei der Angelobung von Finanzminister Magnus Brunner.jpg",
+  "caption": "Polaschek in 2021",
+  "office": "Federal Minister for Education, Science and Research",
+  "term_start": "December 6, 2021",
+  "predecessor": "Heinz Faßmann",
   "birth_date": "November 22, 1965",
   "birth_place": "Bruck an der Mur, Austria",
-  "education": "University of Graz"
+  "education": "University of Graz",
+  "nationality": "Austrian"
 }
