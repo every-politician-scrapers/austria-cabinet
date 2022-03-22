@@ -6,7 +6,8 @@
   "termstart": "29 January 2020",
   "chancellor": "Sebastian Kurz\n\nAlexander Schallenberg\n\nKarl Nehammer",
   "predecessor": "Gernot Blümel",
-  "office1": "Member of the European Parliament for Austria",
+  "office1": "Member of the European Parliament",
+  "constituency1": "Austria",
   "term_start1": "2 July 2019",
   "term_end1": "6 January 2020",
   "office2": "State Secretary of the Interior",
@@ -15,6 +16,7 @@
   "term_start2": "18 December 2017",
   "term_end2": "3 June 2019",
   "birth_date": "March 28, 1981",
-  "birth_place": "Salzburg, Salzburg state, Austria",
-  "party": "Flag of Austria.svg Austrian People's Party\nFlag of Europe.svg European People's Party"
+  "birth_place": "Salzburg, Salzburg State, Austria",
+  "party": "Flag of Austria.svg Austrian People's Party\nFlag of Europe.svg European People's Party",
+  "nationality": "Austrian"
 }
