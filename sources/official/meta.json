@@ -1,0 +1,21 @@
+{
+    "jurisdiction": {
+      "name": "Austria",
+      "id": "Q40"
+    },
+    "cabinet": {
+      "id": "Q109907459",
+      "name": "Nehammer government",
+      "start": "2021-12-06",
+      "parent": "Q695599"
+    },
+    "source": {
+        "url":   "https://www.bundeskanzleramt.gv.at/en/federal-chancellery/the-austrian-federal-government/ministers.html",
+        "title": "Federal Ministers and State Secretaries - Federal Chancellery of Austria",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/austria-cabinet"
+}
