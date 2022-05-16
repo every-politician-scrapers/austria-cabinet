@@ -1,7 +1,18 @@
 {
   "name": "Martin Kocher",
-  "office": "Minister of Labour, Family and Youth",
-  "term_start": "11 January 2021",
-  "chancellor": "Sebastian Kurz\n\nAlexander Schallenberg\n\nKarl Nehammer",
-  "predecessor": "Christine Aschbacher"
+  "office": "Minister of Digital and Economic Affairs",
+  "term_start": "11 May 2022",
+  "chancellor": "Karl Nehammer",
+  "predecessor": "Margarete Schramböck",
+  "office2": "Minister of Labour",
+  "term_start2": "1 February 2021",
+  "chancellor2": "Sebastian Kurz\n\nAlexander Schallenberg\n\nKarl Nehammer",
+  "office3": "Minister of Labour, Family and Youth",
+  "term_start3": "11 January 2021",
+  "term_end3": "1 February 2021",
+  "chancellor3": "Sebastian Kurz",
+  "predecessor3": "Christine Aschbacher",
+  "birth_date": "13 September 1973",
+  "birth_place": "Salzburg, Austria",
+  "alma_mater": "University of Innsbruck"
 }
