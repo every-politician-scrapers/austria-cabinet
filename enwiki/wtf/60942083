@@ -23,12 +23,12 @@
         {
           "sentences": [
             {
-              "text": "Alexander Georg Nicolas Schallenberg (born 20 June 1969) is an Austrian diplomat, jurist and politician who has served as Austria's foreign minister since 6 December 2021.",
+              "text": "Alexander Georg Nicolas Schallenberg (born 20 June 1969) is an Austrian diplomat, jurist and politician who has served as the Foreign Minister of Austria since 6 December 2021.",
               "links": [
                 {
-                  "text": "Austria's foreign minister",
+                  "text": "Foreign Minister of Austria",
                   "type": "internal",
-                  "page": "Foreign Minister of Austria"
+                  "page": "Minister of Foreign Affairs (Austria)"
                 }
               ],
               "formatting": {
@@ -38,7 +38,7 @@
               }
             },
             {
-              "text": "A member of the Austrian People's Party (ÖVP), he had previously served as foreign minister in the second government of Sebastian Kurz before serving as chancellor of Austria from 11 October to 6 December 2021.",
+              "text": "A member of the Austrian People's Party (ÖVP), he previously served as foreign minister from June 2019 to October 2021 in the second government of Sebastian Kurz, before serving as chancellor of Austria from 11 October to 6 December 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -94,13 +94,9 @@
             },
             {
               "text": "He was sworn in on 11 October 2021."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "Schallenberg announced his pending resignation on 2 December 2021, after less than two months in office."
+              "text": "Schallenberg announced his pending resignation on 2 December 2021, after less than two months in office; his resignation took effect on December 6, and he returned to the position of foreign minister."
             }
           ]
         }
@@ -1091,14 +1087,14 @@
               ]
             },
             {
-              "text": "He stepped down when he became chancellor."
+              "text": "He stepped down when he became chancellor, but returned to the position following his resignation."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "After attending an EU summit at the Europa building in Luxembourg on 12 and 13 October 2020 with Sophie Wilmès, Schallenberg tested positive for coronavirus.",
+              "text": "After attending an EU summit at the Europa building in Luxembourg on 12 and 13 October 2020 with Sophie Wilmès, Schallenberg tested positive for COVID-19.",
               "links": [
                 {
                   "type": "internal",
@@ -1113,9 +1109,8 @@
                   "page": "Sophie Wilmès"
                 },
                 {
-                  "text": "coronavirus",
                   "type": "internal",
-                  "page": "coronavirus"
+                  "page": "COVID-19"
                 }
               ]
             }
@@ -1253,9 +1248,10 @@
         {
           "sentences": [
             {
-              "text": "In November 2021, Schallenberg announced that COVID-19 vaccine would be mandatory in Austria from February 2022.",
+              "text": "In November 2021, Schallenberg announced that COVID-19 vaccines would be mandatory in Austria from February 2022.",
               "links": [
                 {
+                  "text": "COVID-19 vaccines",
                   "type": "internal",
                   "page": "COVID-19 vaccine"
                 },
