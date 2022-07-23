@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Karl Nehammer (born 18 October 1972) is an Austrian politician serving as the 32nd Chancellor of Austria since 6 December 2021.",
+              "text": "}}Karl Nehammer (born 18 October 1972) is an Austrian politician serving as the 32nd Chancellor of Austria since 6 December 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -85,7 +85,7 @@
             "text": "2020 Karl Nehammer Ministerrat am 8.1.2020 (49351366976) (cropped) (cropped).jpg"
           },
           "office": {
-            "text": "32nd Chancellor of Austria",
+            "text": "Chancellor of Austria",
             "links": [
               {
                 "type": "internal",
@@ -270,26 +270,6 @@
           },
           "caption": {
             "text": "Nehammer in 2020"
-          },
-          "cabinet": {
-            "text": "Kurz II\n\nSchallenberg\n\nNehammer",
-            "links": [
-              {
-                "text": "Kurz II",
-                "type": "internal",
-                "page": "Second Kurz government"
-              },
-              {
-                "text": "Schallenberg",
-                "type": "internal",
-                "page": "Schallenberg government"
-              },
-              {
-                "text": "Nehammer",
-                "type": "internal",
-                "page": "Nehammer government"
-              }
-            ]
           }
         }
       ],

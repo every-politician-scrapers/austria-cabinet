@@ -36,7 +36,7 @@
         {
           "sentences": [
             {
-              "text": "Alexander Van der Bellen (born 18 January 1944) is the current president of Austria.",
+              "text": "Alexander Van der Bellen ((Hungarian: Alekszander Zágor, born 18 January 1944) is the current president of Austria.",
               "links": [
                 {
                   "text": "president of Austria",
@@ -310,10 +310,10 @@
             "text": "Alexander Van der Bellen"
           },
           "image": {
-            "text": "2022 Alexander Van der Bellen (51926067404) (cropped).jpg"
+            "text": "Alexander Van der Bellen (13-07-2021) (cropped).jpg"
           },
           "caption": {
-            "text": "Van der Bellen in 2022"
+            "text": "Van der Bellen in 2021"
           },
           "office": {
             "text": "President of Austria",
