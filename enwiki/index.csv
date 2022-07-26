@@ -1,27 +1,27 @@
-pageid,title
-1691577,Alexander Van der Bellen
-23180718,Doris Bures
-41846058,Magnus Brunner
-48399475,Robert Holzmann
-50001479,Norbert Hofer
-54579672,Wolfgang Sobotka
-57296481,Peter Kaiser
-57514010,Christoph Grabenwarter
-57752348,Werner Kogler
-57790158,Michael Ludwig
-57955179,Karoline Edtstadler
-58420752,Elisabeth Lovrek
-60942083,Alexander Schallenberg
-62781783,Susanne Raab
-62782678,Karl Nehammer
-62783852,Alma Zadić
-62806768,Klaudia Tanner
-62807356,Leonore Gewessler
-64336239,Verena Madner
-66690873,Martin Weiss (diplomat)
-68477408,Martin Kocher
-68523655,Andrea Mayer
-69463503,Martin Polaschek
-69463583,Gerhard Karner
-69463700,Claudia Plakolm
-70267743,Johannes Rauch
+pageid,title,wikidata,label
+1691577,Alexander Van der Bellen,Q78869,Alexander Van der Bellen
+23180718,Doris Bures,Q85433,Doris Bures
+41846058,Magnus Brunner,Q1884520,Magnus Brunner
+48399475,Robert Holzmann,Q22005045,Robert Holzmann
+50001479,Norbert Hofer,Q1996861,Norbert Hofer
+54579672,Wolfgang Sobotka,Q2591433,Wolfgang Sobotka
+57296481,Peter Kaiser,Q2076158,Peter Kaiser
+57514010,Christoph Grabenwarter,Q1085017,Christoph Grabenwarter
+57752348,Werner Kogler,Q2561778,Werner Kogler
+57790158,Michael Ludwig,Q1560091,Michael Ludwig
+57955179,Karoline Edtstadler,Q45815517,Karoline Edtstadler
+58420752,Elisabeth Lovrek,Q27703596,Elisabeth Lovrek
+60942083,Alexander Schallenberg,Q64168538,Alexander Schallenberg
+62781783,Susanne Raab,Q80289609,Susanne Raab
+62782678,Karl Nehammer,Q42860944,Karl Nehammer
+62783852,Alma Zadić,Q42162193,Alma Zadić
+62806768,Klaudia Tanner,Q43380898,Klaudia Tanner
+62807356,Leonore Gewessler,Q64954602,Leonore Gewessler
+64336239,Verena Madner,Q86095443,Verena Madner
+66690873,Martin Weiss (diplomat),Q21523076,Martin Weiss
+68477408,Martin Kocher,Q18222522,Martin Kocher
+68523655,Andrea Mayer,Q94576878,Andrea Mayer
+69463503,Martin Polaschek,Q61639165,Martin Polaschek
+69463583,Gerhard Karner,Q1511874,Gerhard Karner
+69463700,Claudia Plakolm,Q42294925,Claudia Plakolm
+70267743,Johannes Rauch,Q1698215,Johannes Rauch

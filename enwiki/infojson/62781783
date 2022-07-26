@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Federal Minister of Integration at the Federal Chancellery"
+    },
+    "P580": "2020-01-07",
+    "P1365": {
+      "links": [
+        "Juliane Bogner-Strauß"
+      ],
+      "stated_as": "Juliane Bogner-Strauß (2019)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Federal Minister for Women, Family, Youth and Integration"
+    },
+    "P580": "2021-02-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

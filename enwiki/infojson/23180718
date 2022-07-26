@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[Ministry of Transport (Austria)|Minister of Transport, Innovation\nand Technology]]"
+    },
+    "P580": "2008-12-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Werner Faymann"
+    },
+    "P582": "2014-09-01",
+    "P1366": {
+      "links": [
+        "Alois Stöger"
+      ],
+      "stated_as": "Alois Stöger"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the National Council (Austria)"
+      ],
+      "stated_as": "President of the National Council"
+    },
+    "P580": "2014-09-02",
+    "P1365": {
+      "links": [
+        "Barbara Prammer"
+      ],
+      "stated_as": "Barbara Prammer"
+    },
+    "P582": "2017-11-08",
+    "P1366": {
+      "links": [
+        "Elisabeth Köstinger"
+      ],
+      "stated_as": "Elisabeth Köstinger"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the National Council (Austria)"
+      ],
+      "stated_as": "Second President of the National Council"
+    },
+    "P580": "2017-11-09",
+    "P1365": {
+      "links": [
+        "Karlheinz Kopf"
+      ],
+      "stated_as": "Karlheinz Kopf"
+    }
+  }
+]

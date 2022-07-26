@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Supreme Court (Austria)"
+      ],
+      "stated_as": "Vice President of the Supreme Court of Justice"
+    },
+    "P580": "2015",
+    "P582": "2018-07-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "position vacant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Presidents of the Supreme Court of Justice (Austria)"
+      ],
+      "stated_as": "President of the Supreme Court of Justice"
+    },
+    "P580": "2018-07-01",
+    "P1365": {
+      "links": [
+        "Eckart Ratz"
+      ],
+      "stated_as": "Eckart Ratz"
+    }
+  }
+]
