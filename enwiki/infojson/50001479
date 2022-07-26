@@ -1,0 +1,122 @@
+[
+  {
+    "office": {
+      "links": [
+        "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology"
+      ],
+      "stated_as": "Minister of Transport"
+    },
+    "P580": "2006-10-30",
+    "P582": "2008-10-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology"
+      ],
+      "stated_as": "Minister of Transport"
+    },
+    "P580": "2008-10-28",
+    "P582": "2017-12-18"
+  },
+  {
+    "office": {
+      "links": [
+        "President of the National Council (Austria)"
+      ],
+      "stated_as": "Third President of the National Council"
+    },
+    "P580": "2013-10-29",
+    "P1365": {
+      "links": [
+        "Martin Graf"
+      ],
+      "stated_as": "Martin Graf"
+    },
+    "P582": "2017-12-18",
+    "P1366": {
+      "links": [
+        "Anneliese Kitzmüller"
+      ],
+      "stated_as": "Anneliese Kitzmüller"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology"
+      ],
+      "stated_as": "Minister of Transport"
+    },
+    "P580": "2017-12-18",
+    "P1365": {
+      "links": [
+        "Jörg Leichtfried"
+      ],
+      "stated_as": "Jörg Leichtfried"
+    },
+    "P582": "2019-05-22",
+    "P1366": {
+      "links": [
+        "Valerie Hackl"
+      ],
+      "stated_as": "Valerie Hackl"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology"
+      ],
+      "stated_as": "Minister of Transport"
+    },
+    "P580": "2019-05-24",
+    "P582": "2019-10-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Freedom Party of Austria"
+      ],
+      "stated_as": "Chair of the Freedom Party"
+    },
+    "P580": "2019-09-14",
+    "P1365": {
+      "links": [
+        "Heinz-Christian Strache"
+      ],
+      "stated_as": "Heinz-Christian Strache"
+    },
+    "P582": "2021-06-01",
+    "P1366": {
+      "links": [
+        "Herbert Kickl"
+      ],
+      "stated_as": "Herbert Kickl"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology"
+      ],
+      "stated_as": "Minister of Transport"
+    },
+    "P580": "2019-10-23"
+  },
+  {
+    "office": {
+      "links": [
+        "President of the National Council (Austria)"
+      ],
+      "stated_as": "Third President of the National Council"
+    },
+    "P580": "2019-10-23",
+    "P1365": {
+      "links": [
+        "Anneliese Kitzmüller"
+      ],
+      "stated_as": "Anneliese Kitzmüller"
+    }
+  }
+]

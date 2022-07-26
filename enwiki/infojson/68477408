@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Labour, Family and Youth (Austria)"
+      ],
+      "stated_as": "Minister of Labour, Family and Youth"
+    },
+    "P580": "2021-01-11",
+    "P1365": {
+      "links": [
+        "Christine Aschbacher"
+      ],
+      "stated_as": "Christine Aschbacher"
+    },
+    "P582": "2021-02-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Labour (Austria)"
+      ],
+      "stated_as": "Minister of Labour"
+    },
+    "P580": "2021-02-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry for Digital and Economic Affairs"
+      ],
+      "stated_as": "Minister of Digital and Economic Affairs"
+    },
+    "P580": "2022-05-11",
+    "P1365": {
+      "links": [
+        "Margarete Schramböck"
+      ],
+      "stated_as": "Margarete Schramböck"
+    }
+  }
+]

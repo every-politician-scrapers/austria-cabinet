@@ -1,0 +1,22 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Council (Austria)",
+        ":de:Landeswahlkreis Oberösterreich"
+      ],
+      "stated_as": "Member of the National Council for Upper Austria"
+    },
+    "P580": "2017-11-09",
+    "P582": "2021-12-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Chancellery (Austria)"
+      ],
+      "stated_as": "State Secretary in the Chancellery for Youth and Generations"
+    },
+    "P580": "2021-12-06"
+  }
+]

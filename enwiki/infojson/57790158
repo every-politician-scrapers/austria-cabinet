@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "City Councillor for Housing, Construction, and Urban Renewal"
+    },
+    "P580": "2007-01-22",
+    "P582": "2018-05-24"
+  },
+  {
+    "office": {
+      "links": [
+        "Vienna"
+      ],
+      "stated_as": "Second Deputy Mayor of Vienna"
+    },
+    "P580": "2009-03-26",
+    "P582": "2010-11-25"
+  },
+  {
+    "office": {
+      "links": [
+        "Social Democratic Party of Austria",
+        "Vienna"
+      ],
+      "stated_as": "Chairman of the Social Democratic Party in Vienna"
+    },
+    "P580": "2018-01-27",
+    "P1365": {
+      "links": [
+        "Michael Häupl"
+      ],
+      "stated_as": "Michael Häupl"
+    },
+    "P582": "2018-10-07"
+  },
+  {
+    "office": {
+      "links": [
+        "List of mayors of Vienna"
+      ],
+      "stated_as": "Mayor and Governor of Vienna"
+    },
+    "P580": "2018-05-24",
+    "P1365": {
+      "links": [
+        "Michael Häupl"
+      ],
+      "stated_as": "Michael Häupl"
+    }
+  }
+]

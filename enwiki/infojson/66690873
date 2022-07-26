@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Austrian Ambassador to Cyprus"
+    },
+    "P580": "2009",
+    "P582": "2012",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Karl Müller"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Austria–Israel relations"
+      ],
+      "stated_as": "Austrian Ambassador to Israel"
+    },
+    "P580": "2015-11-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Franz-Josef Kuglitsch"
+    },
+    "P582": "2019-10-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Hannah Liko"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of Austria to the United States"
+      ],
+      "stated_as": "Austrian Ambassador to the United States"
+    },
+    "P580": "2019-11-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Wolfgang Waldner"
+    }
+  }
+]

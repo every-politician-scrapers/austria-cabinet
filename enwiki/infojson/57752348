@@ -1,0 +1,67 @@
+[
+  {
+    "office": {
+      "links": [
+        "Spokesperson of the Austrian Green Party"
+      ],
+      "stated_as": "Spokesperson of the Green Party"
+    },
+    "P580": "1999-10-29",
+    "P582": "2017-11-08"
+  },
+  {
+    "office": {
+      "links": [
+        "Spokesperson of the Austrian Green Party"
+      ],
+      "stated_as": "Spokesperson of the Green Party"
+    },
+    "P580": "2017-10-17",
+    "P1365": {
+      "links": [
+        "Ingrid Felipe"
+      ],
+      "stated_as": "Ingrid Felipe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Spokesperson of the Austrian Green Party"
+      ],
+      "stated_as": "Spokesperson of the Green Party"
+    },
+    "P580": "2019-10-23",
+    "P582": "2020-01-07"
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Ministry for Arts, Culture, the Civil Service and Sport"
+      ],
+      "stated_as": "Minister for Arts, Culture, the Civil Service and Sport"
+    },
+    "P580": "2020-01-07",
+    "P1365": {
+      "links": [
+        "Eduard Müller (Austrian politician)"
+      ],
+      "stated_as": "Eduard Müller"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice-Chancellor of Austria"
+      ],
+      "stated_as": "Vice-Chancellor of Austria"
+    },
+    "P580": "2020-01-07",
+    "P1365": {
+      "links": [
+        "Clemens Jabloner"
+      ],
+      "stated_as": "Clemens Jabloner"
+    }
+  }
+]

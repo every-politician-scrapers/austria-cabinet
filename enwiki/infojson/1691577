@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Spokesperson of the Austrian Green Party"
+      ],
+      "stated_as": "Spokesman of the Green Party"
+    },
+    "P580": "1994-11-07",
+    "P582": "2012-07-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Spokesperson of the Austrian Green Party"
+      ],
+      "stated_as": "Spokesman of the Green Party"
+    },
+    "P580": "1997-12-13",
+    "P1365": {
+      "links": [
+        "Christoph Chorherr"
+      ],
+      "stated_as": "Christoph Chorherr"
+    },
+    "P582": "2008-10-03",
+    "P1366": {
+      "links": [
+        "Eva Glawischnig"
+      ],
+      "stated_as": "Eva Glawischnig"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Austria"
+      ],
+      "stated_as": "President of Austria"
+    },
+    "P580": "2017-01-26",
+    "P1365": {
+      "links": [
+        "Heinz Fischer"
+      ],
+      "stated_as": "Heinz Fischer"
+    }
+  }
+]
