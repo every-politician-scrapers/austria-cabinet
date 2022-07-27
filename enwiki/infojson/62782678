@@ -62,21 +62,6 @@
   {
     "office": {
       "links": [
-        "List of chairpersons of the Austrian People's Party"
-      ],
-      "stated_as": "Chairman of the People's Party"
-    },
-    "P580": "2021-12-03",
-    "P1365": {
-      "links": [
-        "Sebastian Kurz"
-      ],
-      "stated_as": "Sebastian Kurz"
-    }
-  },
-  {
-    "office": {
-      "links": [
         "Chancellor of Austria"
       ],
       "stated_as": "Chancellor of Austria"
@@ -87,6 +72,21 @@
         "Alexander Schallenberg"
       ],
       "stated_as": "Alexander Schallenberg"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chair of the Austrian People's Party"
+      ],
+      "stated_as": "Chair of the People's Party"
+    },
+    "P580": "2022-05-14",
+    "P1365": {
+      "links": [
+        "Sebastian Kurz"
+      ],
+      "stated_as": "Sebastian Kurz"
     }
   }
 ]
