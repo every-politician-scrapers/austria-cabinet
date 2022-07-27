@@ -106,7 +106,7 @@
             ]
           },
           "1blankname": {
-            "text": "Vice Chancellor"
+            "text": "Vice-Chancellor"
           },
           "1namedata": {
             "text": "Werner Kogler",
@@ -127,17 +127,17 @@
             ]
           },
           "office1": {
-            "text": "Chairman of the People's Party",
+            "text": "Chair of the People's Party",
             "links": [
               {
-                "text": "Chairman of the People's Party",
+                "text": "Chair of the People's Party",
                 "type": "internal",
-                "page": "List of chairpersons of the Austrian People's Party"
+                "page": "Chair of the Austrian People's Party"
               }
             ]
           },
           "term_start1": {
-            "text": "3 December 2021 Acting: 3 December 2021 – 14 May 2022"
+            "text": "14 May 2022\nActing: 3 December 2021 – 14 May 2022"
           },
           "predecessor1": {
             "text": "Sebastian Kurz",
