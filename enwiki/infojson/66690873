@@ -51,5 +51,20 @@
       ],
       "stated_as": "Wolfgang Waldner"
     }
+  },
+  {
+    "office": {
+      "links": [
+        "Salzburg Global Seminar"
+      ],
+      "stated_as": "President of Salzburg Global Seminar"
+    },
+    "P580": "2022",
+    "P1365": {
+      "links": [
+        "Stephen Salyer"
+      ],
+      "stated_as": "Stephen Salyer"
+    }
   }
 ]
