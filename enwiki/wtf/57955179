@@ -1,0 +1,658 @@
+{
+  "title": "Karoline Edtstadler",
+  "pageID": 57955179,
+  "categories": [
+    "1981 births",
+    "Living people",
+    "Austrian People's Party politicians",
+    "MEPs for Austria 2019–2024",
+    "21st-century Austrian women politicians",
+    "21st-century Austrian politicians",
+    "Austrian jurists",
+    "Austrian civil servants"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Karoline Edtstadler (born 28 March 1981) is an Austrian lawyer and politician who has served as minister for the EU and the Constitution at the Austrian Chancellery in the governments of Chancellors Sebastian Kurz, Alexander Schallenberg and Karl Nehammer since 2020.",
+              "links": [
+                {
+                  "text": "Austrian Chancellery",
+                  "type": "internal",
+                  "page": "Chancellery (Austria)"
+                },
+                {
+                  "text": "Chancellors",
+                  "type": "internal",
+                  "page": "Chancellor of Austria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastian Kurz"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alexander Schallenberg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Karl Nehammer"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Karoline Edtstadler"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Austrian People's Party (ÖVP), she previously served as a State Secretary at the Ministry of the Interior from 2017 to 2019 and a Member of the European Parliament (MEP) from 2019 until 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                },
+                {
+                  "text": "Ministry of the Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Austria)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Member of the European Parliament"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Austrian politician (born 1981)",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Sebastian Kurz",
+            "Alexander Schallenberg",
+            "Karl Nehammer"
+          ],
+          "template": "ubl"
+        },
+        {
+          "year": "1981",
+          "month": "3",
+          "day": "28",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Karoline Edtstadler"
+          },
+          "image": {
+            "text": "Karoline Edtstadler in Brüssel (49413644531) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Edtstadler in 2020"
+          },
+          "office": {
+            "text": "Federal Minister for the EU and the Constitution at the Federal Chancellery"
+          },
+          "termstart": {
+            "text": "29 January 2020"
+          },
+          "president": {
+            "text": "Alexander Van der Bellen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander Van der Bellen"
+              }
+            ]
+          },
+          "chancellor": {
+            "text": "Sebastian Kurz\n\nAlexander Schallenberg\n\nKarl Nehammer"
+          },
+          "predecessor": {
+            "text": "Gernot Blümel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gernot Blümel"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the European Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the European Parliament"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Austria",
+            "links": [
+              {
+                "text": "Austria",
+                "type": "internal",
+                "page": "Austria (European Parliament constituency)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2 July 2019",
+            "links": [
+              {
+                "text": "2 July 2019",
+                "type": "internal",
+                "page": "2019 European Parliament election in Austria"
+              }
+            ]
+          },
+          "term_end1": {
+            "text": "6 January 2020"
+          },
+          "office2": {
+            "text": "State Secretary of the Interior",
+            "links": [
+              {
+                "text": "State Secretary",
+                "type": "internal",
+                "page": "Secretary of state"
+              },
+              {
+                "text": "Interior",
+                "type": "internal",
+                "page": "Ministry of the Interior (Austria)"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Alexander Van der Bellen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander Van der Bellen"
+              }
+            ]
+          },
+          "chancellor2": {
+            "text": "Sebastian Kurz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastian Kurz"
+              }
+            ]
+          },
+          "minister2": {
+            "text": "Herbert Kickl\nEckart Ratz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Herbert Kickl"
+              },
+              {
+                "type": "internal",
+                "page": "Eckart Ratz"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "18 December 2017"
+          },
+          "term_end2": {
+            "text": "3 June 2019"
+          },
+          "birth_date": {
+            "text": "March 28, 1981"
+          },
+          "birth_place": {
+            "text": "Salzburg, Salzburg State, Austria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salzburg"
+              },
+              {
+                "text": "Salzburg State",
+                "type": "internal",
+                "page": "Salzburg (state)"
+              }
+            ]
+          },
+          "party": {
+            "text": "Flag of Austria.svg Austrian People's Party\nFlag of Europe.svg European People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Austrian People's Party"
+              },
+              {
+                "type": "internal",
+                "page": "European People's Party"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Austrian"
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "Interior Ministry of Austria",
+          "title": "Herbert Kickl",
+          "accessdate": "21 December 2017",
+          "url": "http://www.bmi.gv.at/101/Lebenslauf.aspx",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Key dates ahead",
+          "url": "http://www.europarl.europa.eu/news/en/press-room/elections-press-kit/0/key-dates-ahead",
+          "publisher": "European Parliament",
+          "accessdate": "28 May 2019",
+          "language": "en",
+          "date": "20 May 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Key dates ahead",
+          "url": "https://www.bbc.co.uk/news/uk-48365702",
+          "publisher": "BBC News",
+          "accessdate": "28 May 2019",
+          "language": "en",
+          "date": "22 May 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://salzburg.orf.at/news/stories/2884313/",
+          "title": "Salzburgerin Edtstadler neue Staatssekretärin",
+          "date": "2017-12-16",
+          "access-date": "2018-06-12",
+          "language": "de-DE",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Edtstadler is the daughter of former director of the Salzburg state provincial parliament Karl W. Edtstadler, and was raised in Elixhausen in the Salzburg-Umgebung district.",
+              "links": [
+                {
+                  "text": "provincial parliament",
+                  "type": "internal",
+                  "page": "Landtag"
+                },
+                {
+                  "type": "internal",
+                  "page": "Elixhausen"
+                },
+                {
+                  "text": "Salzburg-Umgebung",
+                  "type": "internal",
+                  "page": "Salzburg-Umgebung District"
+                }
+              ]
+            },
+            {
+              "text": "She attended elementary school in Elixhausen and went on to the Salzburg Fine Arts Grammar School."
+            },
+            {
+              "text": "Edtstadler studied law at the University of Salzburg and graduated in 2004 with a magistra degree.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Salzburg"
+                },
+                {
+                  "text": "magistra",
+                  "type": "internal",
+                  "page": "Magister degree"
+                }
+              ]
+            },
+            {
+              "text": "Court internships at the Mondsee district court and at the Salzburg Regional Court followed.",
+              "links": [
+                {
+                  "text": "Mondsee",
+                  "type": "internal",
+                  "page": "Mondsee (town)"
+                }
+              ]
+            },
+            {
+              "text": "In 2006 she became a judge's candidate at the higher regional court of Linz and in 2008 she became a judge at the Salzburg regional court.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Linz"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2010, Edtstadler passed relatively heavy sentences on two upstanding brothers, who had been charged with injuring a police officer at a demonstration against the asylum policy of minister of the interior Maria Fekter.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maria Fekter"
+                }
+              ]
+            },
+            {
+              "text": "The higher regional court of Linz reversed the judgements in significant points, as even the public prosecutor considered the sentences to be too heavy."
+            },
+            {
+              "text": "The president of the regional court Hans Rathgeb praised Edtstadler's work at the court: \"She was a very goal-oriented and experienced judge\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2011, Edtstadler moved to Section IV (Criminal Law) in the Ministry of Justice.",
+              "links": [
+                {
+                  "text": "Ministry of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Austria)"
+                }
+              ]
+            },
+            {
+              "text": "From 2014, she was a personal expert in the cabinet of Minister of Justice Wolfgang Brandstetter, where she was involved in the reform of the criminal code and of criminal law relating to young offenders.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wolfgang Brandstetter"
+                }
+              ]
+            },
+            {
+              "text": "In early 2015, she became Senior Prosecutor at the Vienna Corruption Prosecutor's Office, while she remained assigned to the Ministry of Justice."
+            },
+            {
+              "text": "From May 2016 she was a legal employee at the European Court of Human Rights (ECHR) in Strasbourg.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Court of Human Rights"
+                },
+                {
+                  "type": "internal",
+                  "page": "Strasbourg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.kleinezeitung.at/politik/innenpolitik/5339536/Karoline-Edtstadler_Salzburger-Richterin-als-Staatssekretaerin-im",
+          "title": "Karoline Edtstadler: Salzburger Richterin als Staatssekretärin im Innenministerium",
+          "work": "www.kleinezeitung.at",
+          "access-date": "2018-06-12",
+          "language": "de",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.sn.at/politik/innenpolitik/karoline-edtstadler-salzburgerin-ist-oevp-staatssekretaerin-im-innenministerium-21802297",
+          "title": "Karoline Edtstadler - Salzburgerin ist ÖVP-Staatssekretärin im Innenministerium",
+          "last": "Nachrichten",
+          "first": "Salzburger",
+          "access-date": "2018-06-12",
+          "language": "de",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "Career in national politics",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "From 2004 to 2006, Edtstadler served as councilor in Henndorf am Wallersee for the ÖVP.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Henndorf am Wallersee"
+                },
+                {
+                  "text": "ÖVP",
+                  "type": "internal",
+                  "page": "Austrian People's Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2017 until 2019, Edtstadler served as secretary of state in the Austrian Ministry of the Interior, in the government of Chancellor Sebastian Kurz.",
+              "links": [
+                {
+                  "text": "Ministry of the Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Austria)"
+                },
+                {
+                  "text": "Chancellor",
+                  "type": "internal",
+                  "page": "Chancellor of Austria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastian Kurz"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Member of the European Parliament, 2019–2020",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the 2019 European Parliament election, Edtstadler was number two on her party's list, following Othmar Karas.",
+              "links": [
+                {
+                  "text": "2019 European Parliament election",
+                  "type": "internal",
+                  "page": "2019 European Parliament election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Othmar Karas"
+                }
+              ]
+            },
+            {
+              "text": "As Member of the European Parliament, she served on the Committee on Civil Liberties, Justice and Home Affairs and on the Subcommittee on Human Rights.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of the European Parliament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Committee on Civil Liberties, Justice and Home Affairs"
+                },
+                {
+                  "type": "internal",
+                  "page": "Subcommittee on Human Rights"
+                }
+              ]
+            },
+            {
+              "text": "Within the centre-right European People's Party Group (EPP), she led the ÖVP delegation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European People's Party Group"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Weisskircher",
+          "first1": "Manès",
+          "title": "The European Parliament elections: Trouble in paradise for Austria’s right-wing government?",
+          "url": "https://blogs.lse.ac.uk/europpblog/2019/02/25/the-european-parliament-elections-trouble-in-paradise-for-austrias-right-wing-government/",
+          "website": "European Politics and Policy",
+          "publisher": "The London School of Economics and Political Science",
+          "accessdate": "25 May 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Return to national politics",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Since 2020, Edtstadler has been serving as minister for the EU and the Constitution at the Austrian Chancellery in the government of Chancellor Sebastian Kurz.",
+              "links": [
+                {
+                  "text": "Chancellery",
+                  "type": "internal",
+                  "page": "Chancellery (Austria)"
+                },
+                {
+                  "text": "Chancellor",
+                  "type": "internal",
+                  "page": "Chancellor of Austria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastian Kurz"
+                }
+              ]
+            },
+            {
+              "text": "In addition, she has been co-chairing of the EPP European Affairs Ministers Meeting (alongside Helen McEntee), which gathers the center-right EPP ministers ahead of meetings of the General Affairs Council (GAC).",
+              "links": [
+                {
+                  "text": "EPP European Affairs Ministers Meeting",
+                  "type": "internal",
+                  "page": "European People's Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Helen McEntee"
+                },
+                {
+                  "type": "internal",
+                  "page": "General Affairs Council"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Edtstadler has a son and lives in Salzburg."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "European Union"
+          ],
+          "template": "portal"
+        },
+        {
+          "template": "cabinet nehammer"
+        },
+        {
+          "template": "cabinet schallenberg"
+        },
+        {
+          "template": "cabinet kurz ii"
+        },
+        {
+          "title": "Karoline Edtstadler navigational boxes",
+          "template": "navboxes"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

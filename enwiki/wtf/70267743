@@ -1,0 +1,207 @@
+{
+  "title": "Johannes Rauch",
+  "pageID": 70267743,
+  "categories": [
+    "Living people",
+    "1959 births",
+    "21st-century Austrian politicians",
+    "Health ministers of Austria",
+    "The Greens – The Green Alternative politicians",
+    "People from Vorarlberg"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Johannes Rauch (born 24 April 1959 in Rankweil) is an Austrian politician (Green Party).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rankweil"
+                },
+                {
+                  "text": "Green Party",
+                  "type": "internal",
+                  "page": "The Greens – The Green Alternative"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Johannes Rauch"
+                ]
+              }
+            },
+            {
+              "text": "He serves as Federal Minister of Social Affairs, Health, Care and Consumer Protection in the government of chancellor Karl Nehammer since 8 March 2022.",
+              "links": [
+                {
+                  "text": "Federal Minister of Social Affairs, Health, Care and Consumer Protection",
+                  "type": "internal",
+                  "page": "List of Ministers of Social Affairs (Austria)"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Nehammer government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Karl Nehammer"
+                }
+              ]
+            },
+            {
+              "text": "Before taking office as Federal Minister, he was Provincial Councillor for the Environment and Mobility in the Vorarlberg Provincial Government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vorarlberg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2022",
+          "template": "one source"
+        },
+        {
+          "date": "March 2022",
+          "template": "primary sources"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "description": "Austrian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "4",
+          "day": "24",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Wolfgang Mückstein",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Social Affairs, Health, Care and Consumer Protection",
+          "years": "2022–incumbent",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "cabinet nehammer"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Johannes Rauch"
+          },
+          "image": {
+            "text": "2022 Johannes Rauch (51926359630) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Johannes Rauch (2022)"
+          },
+          "office": {
+            "text": "Minister of Social Affairs, Health, Care and Consumer Protection",
+            "links": [
+              {
+                "text": "Minister of Social Affairs, Health, Care and Consumer Protection",
+                "type": "internal",
+                "page": "List of Ministers of Social Affairs (Austria)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 March 2022"
+          },
+          "chancellor": {
+            "text": "Karl Nehammer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karl Nehammer"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Wolfgang Mückstein",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wolfgang Mückstein"
+              }
+            ]
+          },
+          "party": {
+            "text": "The Greens – The Green Alternative",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Greens – The Green Alternative"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 24, 1959"
+          },
+          "birth_place": {
+            "text": "Rankweil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rankweil"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Federal Minister Johannes Rauch",
+          "url": "https://www.sozialministerium.at/en/Ministry/Federal-Minister-Johannes-Rauch.html",
+          "access-date": "2022-03-09",
+          "website": "www.sozialministerium.at",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "austria-politician-stub"
+        }
+      ]
+    }
+  ]
+}
